@@ -1,0 +1,3940 @@
+[
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Artarmon Station",
+            "short_name": "Artarmon Station",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "train_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Artarmon",
+            "short_name": "Artarmon",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "City of Willoughby",
+            "short_name": "Willoughby",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2064",
+            "short_name": "2064",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Artarmon Station, Artarmon NSW 2064, Australia",
+        "geometry": {
+          "location": {
+            "lat": -33.80883110000001,
+            "lng": 151.1851236
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -33.80748211970851,
+              "lng": 151.1864725802915
+            },
+            "southwest": {
+              "lat": -33.81018008029151,
+              "lng": 151.1837746197085
+            }
+          }
+        },
+        "place_id": "ChIJsQ1QqimvEmsR2xoqQf2udwQ",
+        "plus_code": {
+          "compound_code": "55RP+F2 Artarmon, New South Wales, Australia",
+          "global_code": "4RRH55RP+F2"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "train_station",
+          "transit_station"
+        ]
+      },
+      {
+        "address_components": [
+          {
+            "long_name": "93",
+            "short_name": "93",
+            "types": [
+              "subpremise"
+            ]
+          },
+          {
+            "long_name": "89-93",
+            "short_name": "89-93",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Reserve Road",
+            "short_name": "Reserve Rd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Artarmon",
+            "short_name": "Artarmon",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "City of Willoughby",
+            "short_name": "Willoughby",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2064",
+            "short_name": "2064",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "93/89-93 Reserve Rd, Artarmon NSW 2064, Australia",
+        "geometry": {
+          "location": {
+            "lat": -33.8152782,
+            "lng": 151.1869315
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": -33.81392921970851,
+              "lng": 151.1882804802915
+            },
+            "southwest": {
+              "lat": -33.8166271802915,
+              "lng": 151.1855825197085
+            }
+          }
+        },
+        "place_id": "ChIJldaBYievEmsRij89VfLHv0c",
+        "plus_code": {
+          "compound_code": "55MP+VQ Artarmon, New South Wales, Australia",
+          "global_code": "4RRH55MP+VQ"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Auburn",
+            "short_name": "Auburn",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "train_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Auburn",
+            "short_name": "Auburn",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Cumberland Council",
+            "short_name": "Cumberland Council",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2144",
+            "short_name": "2144",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Auburn, Auburn NSW 2144, Australia",
+        "geometry": {
+          "location": {
+            "lat": -33.8491889,
+            "lng": 151.0328916
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -33.84783991970851,
+              "lng": 151.0342405802915
+            },
+            "southwest": {
+              "lat": -33.8505378802915,
+              "lng": 151.0315426197085
+            }
+          }
+        },
+        "place_id": "ChIJSUzwKrK8EmsRjgRH46erCqg",
+        "plus_code": {
+          "compound_code": "522M+85 Auburn, New South Wales, Australia",
+          "global_code": "4RRH522M+85"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "train_station",
+          "transit_station"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Banksia Station",
+            "short_name": "Banksia Station",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "train_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Banksia",
+            "short_name": "Banksia",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Bayside Council",
+            "short_name": "Bayside Council",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2216",
+            "short_name": "2216",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Banksia Station, Banksia NSW 2216, Australia",
+        "geometry": {
+          "location": {
+            "lat": -33.9453067,
+            "lng": 151.1404131
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -33.9439577197085,
+              "lng": 151.1417620802915
+            },
+            "southwest": {
+              "lat": -33.9466556802915,
+              "lng": 151.1390641197085
+            }
+          }
+        },
+        "place_id": "ChIJQYzXJ6iwEmsRrlHY9H95cnA",
+        "plus_code": {
+          "compound_code": "343R+V5 Banksia, New South Wales, Australia",
+          "global_code": "4RRH343R+V5"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "train_station",
+          "transit_station"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Bardwell Park Station",
+            "short_name": "Bardwell Park Station",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "train_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Bardwell Park",
+            "short_name": "Bardwell Park",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Bayside Council",
+            "short_name": "Bayside Council",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2207",
+            "short_name": "2207",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Bardwell Park Station, Bardwell Park NSW 2207, Australia",
+        "geometry": {
+          "location": {
+            "lat": -33.9315724,
+            "lng": 151.1248947
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -33.9302234197085,
+              "lng": 151.1262436802915
+            },
+            "southwest": {
+              "lat": -33.9329213802915,
+              "lng": 151.1235457197085
+            }
+          }
+        },
+        "place_id": "ChIJcWc1BhO6EmsR94fwW65UsMU",
+        "plus_code": {
+          "compound_code": "349F+9X Bardwell Park, New South Wales, Australia",
+          "global_code": "4RRH349F+9X"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "train_station",
+          "transit_station"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Bexley North Station",
+            "short_name": "Bexley North Station",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "train_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Bexley North",
+            "short_name": "Bexley North",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Bayside Council",
+            "short_name": "Bayside Council",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2207",
+            "short_name": "2207",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Bexley North Station, Bexley North NSW 2207, Australia",
+        "geometry": {
+          "location": {
+            "lat": -33.9375236,
+            "lng": 151.1135141
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -33.9361746197085,
+              "lng": 151.1148630802915
+            },
+            "southwest": {
+              "lat": -33.93887258029149,
+              "lng": 151.1121651197085
+            }
+          }
+        },
+        "place_id": "ChIJ8zHrIyO6EmsRihZ7gvWvH5w",
+        "plus_code": {
+          "compound_code": "3467+XC Bexley North, New South Wales, Australia",
+          "global_code": "4RRH3467+XC"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "train_station",
+          "transit_station"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Birrong Station",
+            "short_name": "Birrong Station",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "train_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Birrong",
+            "short_name": "Birrong",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Bankstown City Council",
+            "short_name": "Bankstown",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2143",
+            "short_name": "2143",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Birrong Station, Birrong NSW 2143, Australia",
+        "geometry": {
+          "location": {
+            "lat": -33.8932932,
+            "lng": 151.0240292
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -33.89194421970849,
+              "lng": 151.0253781802915
+            },
+            "southwest": {
+              "lat": -33.89464218029149,
+              "lng": 151.0226802197085
+            }
+          }
+        },
+        "place_id": "ChIJFyAI_2e8EmsRLwng7Md__8Q",
+        "plus_code": {
+          "compound_code": "424F+MJ Birrong, New South Wales, Australia",
+          "global_code": "4RRH424F+MJ"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "train_station",
+          "transit_station"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Caringbah Station",
+            "short_name": "Caringbah Station",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "train_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Caringbah",
+            "short_name": "Caringbah",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Sutherland Shire",
+            "short_name": "Sutherland Shire",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2229",
+            "short_name": "2229",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Caringbah Station, Caringbah NSW 2229, Australia",
+        "geometry": {
+          "location": {
+            "lat": -34.0415877,
+            "lng": 151.1225723
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -34.0402387197085,
+              "lng": 151.1239212802915
+            },
+            "southwest": {
+              "lat": -34.0429366802915,
+              "lng": 151.1212233197085
+            }
+          }
+        },
+        "place_id": "ChIJq0WM5e3HEmsRnaw18QcDx9Y",
+        "plus_code": {
+          "compound_code": "X45F+92 Caringbah, New South Wales, Australia",
+          "global_code": "4RQHX45F+92"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "train_station",
+          "transit_station"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Carramar Station",
+            "short_name": "Carramar Station",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "train_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Carramar",
+            "short_name": "Carramar",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Fairfield City Council",
+            "short_name": "Fairfield",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2163",
+            "short_name": "2163",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Carramar Station, Carramar NSW 2163, Australia",
+        "geometry": {
+          "location": {
+            "lat": -33.884312,
+            "lng": 150.9615146
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -33.8829630197085,
+              "lng": 150.9628635802915
+            },
+            "southwest": {
+              "lat": -33.8856609802915,
+              "lng": 150.9601656197085
+            }
+          }
+        },
+        "place_id": "ChIJoWe6YYy9EmsRQpbZ7Yxr3Nc",
+        "plus_code": {
+          "compound_code": "4X86+7J Carramar, New South Wales, Australia",
+          "global_code": "4RRG4X86+7J"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "train_station",
+          "transit_station"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Central Railway Station, Sydney",
+            "short_name": "Central Railway Station, Sydney",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Haymarket",
+            "short_name": "Haymarket",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Council of the City of Sydney",
+            "short_name": "Sydney",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2000",
+            "short_name": "2000",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Central Railway Station, Sydney, Haymarket NSW 2000, Australia",
+        "geometry": {
+          "location": {
+            "lat": -33.8831733,
+            "lng": 151.2069512
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -33.88182431970849,
+              "lng": 151.2083001802915
+            },
+            "southwest": {
+              "lat": -33.88452228029149,
+              "lng": 151.2056022197085
+            }
+          }
+        },
+        "place_id": "ChIJ1URX0SOuEmsRp4tE5Y4ewCE",
+        "plus_code": {
+          "compound_code": "4684+PQ Haymarket, New South Wales, Australia",
+          "global_code": "4RRH4684+PQ"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      },
+      {
+        "address_components": [
+          {
+            "long_name": "56",
+            "short_name": "56",
+            "types": [
+              "subpremise"
+            ]
+          },
+          {
+            "long_name": "70",
+            "short_name": "70",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Chalmers Street",
+            "short_name": "Chalmers St",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Haymarket",
+            "short_name": "Haymarket",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Council of the City of Sydney",
+            "short_name": "Sydney",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2000",
+            "short_name": "2000",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "56/70 Chalmers St, Haymarket NSW 2000, Australia",
+        "geometry": {
+          "location": {
+            "lat": -33.8855502,
+            "lng": 151.2068784
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": -33.8842012197085,
+              "lng": 151.2082273802915
+            },
+            "southwest": {
+              "lat": -33.8868991802915,
+              "lng": 151.2055294197085
+            }
+          }
+        },
+        "place_id": "ChIJZZrHBSGuEmsROSOaMAjZCiY",
+        "plus_code": {
+          "compound_code": "4674+QQ Haymarket, New South Wales, Australia",
+          "global_code": "4RRH4674+QQ"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Cheltenham",
+            "short_name": "Cheltenham",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "train_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Cheltenham",
+            "short_name": "Cheltenham",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "The Council of the Shire of Hornsby",
+            "short_name": "Hornsby",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2119",
+            "short_name": "2119",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Cheltenham, Cheltenham NSW 2119, Australia",
+        "geometry": {
+          "location": {
+            "lat": -33.7557491,
+            "lng": 151.0785565
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -33.75440011970849,
+              "lng": 151.0799054802915
+            },
+            "southwest": {
+              "lat": -33.75709808029149,
+              "lng": 151.0772075197085
+            }
+          }
+        },
+        "place_id": "ChIJ3yfsA5OmEmsRtkU73LzoVwo",
+        "plus_code": {
+          "compound_code": "63VH+PC Cheltenham, New South Wales, Australia",
+          "global_code": "4RRH63VH+PC"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "train_station",
+          "transit_station"
+        ]
+      },
+      {
+        "address_components": [
+          {
+            "long_name": "The Crescent",
+            "short_name": "The Crescent",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Cheltenham",
+            "short_name": "Cheltenham",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "The Council of the Shire of Hornsby",
+            "short_name": "Hornsby",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2119",
+            "short_name": "2119",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "The Crescent, Cheltenham NSW 2119, Australia",
+        "geometry": {
+          "location": {
+            "lat": -33.7561658,
+            "lng": 151.0788728
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -33.75481681970849,
+              "lng": 151.0802217802915
+            },
+            "southwest": {
+              "lat": -33.75751478029149,
+              "lng": 151.0775238197085
+            }
+          }
+        },
+        "place_id": "ChIJyeYCAZOmEmsRxEfQgQ1GgQc",
+        "plus_code": {
+          "compound_code": "63VH+GG Cheltenham, New South Wales, Australia",
+          "global_code": "4RRH63VH+GG"
+        },
+        "types": [
+          "establishment",
+          "parking",
+          "point_of_interest"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Denistone",
+            "short_name": "Denistone",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "train_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Denistone",
+            "short_name": "Denistone",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "City of Ryde",
+            "short_name": "City of Ryde",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2114",
+            "short_name": "2114",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Denistone, Denistone NSW 2114, Australia",
+        "geometry": {
+          "location": {
+            "lat": -33.7995547,
+            "lng": 151.0867853
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -33.7982057197085,
+              "lng": 151.0881342802915
+            },
+            "southwest": {
+              "lat": -33.8009036802915,
+              "lng": 151.0854363197085
+            }
+          }
+        },
+        "place_id": "ChIJp4eDfEmkEmsRAeBgPhAEA7k",
+        "plus_code": {
+          "compound_code": "632P+5P Denistone, New South Wales, Australia",
+          "global_code": "4RRH632P+5P"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "train_station",
+          "transit_station"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "East Richmond Station",
+            "short_name": "East Richmond Station",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "train_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Richmond",
+            "short_name": "Richmond",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Hawkesbury City Council",
+            "short_name": "Hawkesbury City Council",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2753",
+            "short_name": "2753",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "East Richmond Station, Richmond NSW 2753, Australia",
+        "geometry": {
+          "location": {
+            "lat": -33.6017917,
+            "lng": 150.7591251
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -33.6004427197085,
+              "lng": 150.7604740802915
+            },
+            "southwest": {
+              "lat": -33.6031406802915,
+              "lng": 150.7577761197085
+            }
+          }
+        },
+        "place_id": "ChIJp3gDTVB9DWsRREowmJoOJiw",
+        "plus_code": {
+          "compound_code": "9QX5+7M Richmond, New South Wales, Australia",
+          "global_code": "4RRG9QX5+7M"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "train_station",
+          "transit_station"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Eastwood",
+            "short_name": "Eastwood",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "train_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Eastwood",
+            "short_name": "Eastwood",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "City of Ryde",
+            "short_name": "City of Ryde",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2122",
+            "short_name": "2122",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Eastwood, Eastwood NSW 2122, Australia",
+        "geometry": {
+          "location": {
+            "lat": -33.7901004,
+            "lng": 151.0821577
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -33.7887514197085,
+              "lng": 151.0835066802915
+            },
+            "southwest": {
+              "lat": -33.7914493802915,
+              "lng": 151.0808087197085
+            }
+          }
+        },
+        "place_id": "ChIJn7HKqzCkEmsR4ENhn_8dTCQ",
+        "plus_code": {
+          "compound_code": "635J+XV Eastwood, New South Wales, Australia",
+          "global_code": "4RRH635J+XV"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "train_station",
+          "transit_station"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Edgecliff Station",
+            "short_name": "Edgecliff Station",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "train_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Edgecliff",
+            "short_name": "Edgecliff",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Woollahra Municipal Council",
+            "short_name": "Woollahra",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2027",
+            "short_name": "2027",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Edgecliff Station, Edgecliff NSW 2027, Australia",
+        "geometry": {
+          "location": {
+            "lat": -33.8797328,
+            "lng": 151.2367353
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -33.8783838197085,
+              "lng": 151.2380842802915
+            },
+            "southwest": {
+              "lat": -33.8810817802915,
+              "lng": 151.2353863197085
+            }
+          }
+        },
+        "place_id": "ChIJTXRgdOGtEmsRSzGPxiVz2kE",
+        "plus_code": {
+          "compound_code": "46CP+4M Edgecliff, New South Wales, Australia",
+          "global_code": "4RRH46CP+4M"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "train_station",
+          "transit_station"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Engadine Station",
+            "short_name": "Engadine Station",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "train_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Engadine",
+            "short_name": "Engadine",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Sutherland Shire",
+            "short_name": "Sutherland Shire",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2233",
+            "short_name": "2233",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Engadine Station, Engadine NSW 2233, Australia",
+        "geometry": {
+          "location": {
+            "lat": -34.0676654,
+            "lng": 151.0147425
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -34.06631641970849,
+              "lng": 151.0160914802915
+            },
+            "southwest": {
+              "lat": -34.06901438029149,
+              "lng": 151.0133935197085
+            }
+          }
+        },
+        "place_id": "ChIJoaUYtG3BEmsRajylf1diRJk",
+        "plus_code": {
+          "compound_code": "W2J7+WV Engadine, New South Wales, Australia",
+          "global_code": "4RQHW2J7+WV"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "train_station",
+          "transit_station"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Green Square Station",
+            "short_name": "Green Square Station",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "train_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Alexandria",
+            "short_name": "Alexandria",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Council of the City of Sydney",
+            "short_name": "Sydney",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2015",
+            "short_name": "2015",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Green Square Station, Alexandria NSW 2015, Australia",
+        "geometry": {
+          "location": {
+            "lat": -33.9062418,
+            "lng": 151.2024545
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -33.90489281970849,
+              "lng": 151.2038034802915
+            },
+            "southwest": {
+              "lat": -33.90759078029149,
+              "lng": 151.2011055197085
+            }
+          }
+        },
+        "place_id": "ChIJE3zuGcexEmsRbcIaLM1z0oI",
+        "plus_code": {
+          "compound_code": "36V2+GX Alexandria, New South Wales, Australia",
+          "global_code": "4RRH36V2+GX"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "train_station",
+          "transit_station"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Hornsby",
+            "short_name": "Hornsby",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "train_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Hornsby",
+            "short_name": "Hornsby",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "The Council of the Shire of Hornsby",
+            "short_name": "Hornsby",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2077",
+            "short_name": "2077",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Hornsby, Hornsby NSW 2077, Australia",
+        "geometry": {
+          "location": {
+            "lat": -33.7034846,
+            "lng": 151.098357
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -33.70213561970849,
+              "lng": 151.0997059802915
+            },
+            "southwest": {
+              "lat": -33.70483358029149,
+              "lng": 151.0970080197085
+            }
+          }
+        },
+        "place_id": "ChIJAQgK6YOnEmsRf8tE_Ks7-nU",
+        "plus_code": {
+          "compound_code": "73WX+J8 Hornsby, New South Wales, Australia",
+          "global_code": "4RRH73WX+J8"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "train_station",
+          "transit_station"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Hurlstone Park Station",
+            "short_name": "Hurlstone Park Station",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "train_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Hurlstone Park",
+            "short_name": "Hurlstone Park",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Canterbury City Council",
+            "short_name": "Canterbury",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2193",
+            "short_name": "2193",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Hurlstone Park Station, Hurlstone Park NSW 2193, Australia",
+        "geometry": {
+          "location": {
+            "lat": -33.91017,
+            "lng": 151.1324592
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -33.9088210197085,
+              "lng": 151.1338081802915
+            },
+            "southwest": {
+              "lat": -33.9115189802915,
+              "lng": 151.1311102197085
+            }
+          }
+        },
+        "place_id": "ChIJz_XbfIe6EmsRBEyq3fpVqYk",
+        "plus_code": {
+          "compound_code": "34QJ+WX Hurlstone Park, New South Wales, Australia",
+          "global_code": "4RRH34QJ+WX"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "train_station",
+          "transit_station"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Hurstville railway station",
+            "short_name": "Hurstville railway station",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Hurstville",
+            "short_name": "Hurstville",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2220",
+            "short_name": "2220",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Hurstville railway station, Hurstville NSW 2220, Australia",
+        "geometry": {
+          "location": {
+            "lat": -33.9672608,
+            "lng": 151.1024006
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -33.9659118197085,
+              "lng": 151.1037495802915
+            },
+            "southwest": {
+              "lat": -33.9686097802915,
+              "lng": 151.1010516197085
+            }
+          }
+        },
+        "place_id": "ChIJT4IxqKO5EmsRdnryRsDt8S4",
+        "plus_code": {
+          "compound_code": "24M2+3X Hurstville, New South Wales, Australia",
+          "global_code": "4RRH24M2+3X"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Kings Cross",
+            "short_name": "Kings Cross",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "train_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Darlinghurst Road",
+            "short_name": "Darlinghurst Rd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Potts Point",
+            "short_name": "Potts Point",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Council of the City of Sydney",
+            "short_name": "Sydney",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2011",
+            "short_name": "2011",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Kings Cross, Darlinghurst Rd, Potts Point NSW 2011, Australia",
+        "geometry": {
+          "location": {
+            "lat": -33.874508,
+            "lng": 151.222061
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -33.8731590197085,
+              "lng": 151.2234099802915
+            },
+            "southwest": {
+              "lat": -33.8758569802915,
+              "lng": 151.2207120197085
+            }
+          }
+        },
+        "place_id": "ChIJcRGifw2uEmsRJK0Iat8quIY",
+        "plus_code": {
+          "compound_code": "46GC+5R Potts Point, New South Wales, Australia",
+          "global_code": "4RRH46GC+5R"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "train_station",
+          "transit_station"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Kirrawee Station",
+            "short_name": "Kirrawee Station",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "train_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Kirrawee",
+            "short_name": "Kirrawee",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Sutherland Shire",
+            "short_name": "Sutherland Shire",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2232",
+            "short_name": "2232",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Kirrawee Station, Kirrawee NSW 2232, Australia",
+        "geometry": {
+          "location": {
+            "lat": -34.0349649,
+            "lng": 151.0714683
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -34.0336159197085,
+              "lng": 151.0728172802915
+            },
+            "southwest": {
+              "lat": -34.03631388029149,
+              "lng": 151.0701193197085
+            }
+          }
+        },
+        "place_id": "ChIJj7nqZGrHEmsRKaY1TaTqbiM",
+        "plus_code": {
+          "compound_code": "X38C+2H Kirrawee, New South Wales, Australia",
+          "global_code": "4RQHX38C+2H"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "train_station",
+          "transit_station"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Macarthur Station",
+            "short_name": "Macarthur Station",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "train_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Menangle Road",
+            "short_name": "Menangle Rd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Campbelltown",
+            "short_name": "Campbelltown",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Campbelltown City Council",
+            "short_name": "Campbelltown",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2560",
+            "short_name": "2560",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Macarthur Station, Menangle Rd, Campbelltown NSW 2560, Australia",
+        "geometry": {
+          "location": {
+            "lat": -34.07195,
+            "lng": 150.7972521
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -34.0706010197085,
+              "lng": 150.7986010802915
+            },
+            "southwest": {
+              "lat": -34.0732989802915,
+              "lng": 150.7959031197085
+            }
+          }
+        },
+        "place_id": "ChIJLWqbebTvEmsRgUPRrZE-kL4",
+        "plus_code": {
+          "compound_code": "WQHW+6W Campbelltown, New South Wales, Australia",
+          "global_code": "4RQGWQHW+6W"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "train_station",
+          "transit_station"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Martin Place Station",
+            "short_name": "Martin Place Station",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "train_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Sydney",
+            "short_name": "Sydney",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Council of the City of Sydney",
+            "short_name": "Sydney",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2000",
+            "short_name": "2000",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Martin Place Station, Sydney NSW 2000, Australia",
+        "geometry": {
+          "location": {
+            "lat": -33.867924,
+            "lng": 151.211807
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -33.8665750197085,
+              "lng": 151.2131559802915
+            },
+            "southwest": {
+              "lat": -33.8692729802915,
+              "lng": 151.2104580197085
+            }
+          }
+        },
+        "place_id": "ChIJo2ODlmquEmsRnMfTFeHQcvs",
+        "plus_code": {
+          "compound_code": "46J6+RP Sydney, New South Wales, Australia",
+          "global_code": "4RRH46J6+RP"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "train_station",
+          "transit_station"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Milsons Point Station",
+            "short_name": "Milsons Point Station",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "train_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Milsons Point",
+            "short_name": "Milsons Point",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "North Sydney Council",
+            "short_name": "North Sydney",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2061",
+            "short_name": "2061",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Milsons Point Station, Milsons Point NSW 2061, Australia",
+        "geometry": {
+          "location": {
+            "lat": -33.8458572,
+            "lng": 151.2118241
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -33.8445082197085,
+              "lng": 151.2131730802915
+            },
+            "southwest": {
+              "lat": -33.8472061802915,
+              "lng": 151.2104751197085
+            }
+          }
+        },
+        "place_id": "ChIJy5rdGIuuEmsRm-V54TCQj04",
+        "plus_code": {
+          "compound_code": "5636+MP Milsons Point, New South Wales, Australia",
+          "global_code": "4RRH5636+MP"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "train_station",
+          "transit_station"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Miranda Station",
+            "short_name": "Miranda Station",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "train_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Miranda",
+            "short_name": "Miranda",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Sutherland Shire",
+            "short_name": "Sutherland Shire",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2228",
+            "short_name": "2228",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Miranda Station, Miranda NSW 2228, Australia",
+        "geometry": {
+          "location": {
+            "lat": -34.0363093,
+            "lng": 151.1025719
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -34.0349603197085,
+              "lng": 151.1039208802915
+            },
+            "southwest": {
+              "lat": -34.0376582802915,
+              "lng": 151.1012229197085
+            }
+          }
+        },
+        "place_id": "ChIJaYoIJpvHEmsRjegU196TtDA",
+        "plus_code": {
+          "compound_code": "X473+F2 Miranda, New South Wales, Australia",
+          "global_code": "4RQHX473+F2"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "train_station",
+          "transit_station"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Mortdale Station",
+            "short_name": "Mortdale Station",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "train_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Mortdale",
+            "short_name": "Mortdale",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Hurstville City Council",
+            "short_name": "Hurstville",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2223",
+            "short_name": "2223",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Mortdale Station, Mortdale NSW 2223, Australia",
+        "geometry": {
+          "location": {
+            "lat": -33.9706333,
+            "lng": 151.0812595
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -33.9692843197085,
+              "lng": 151.0826084802915
+            },
+            "southwest": {
+              "lat": -33.97198228029149,
+              "lng": 151.0799105197085
+            }
+          }
+        },
+        "place_id": "ChIJM2OL2xq5EmsRQWnQBiqkiBM",
+        "plus_code": {
+          "compound_code": "23HJ+PG Mortdale, New South Wales, Australia",
+          "global_code": "4RRH23HJ+PG"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "train_station",
+          "transit_station"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Mount Colah Station",
+            "short_name": "Mount Colah Station",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "train_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Mount Colah",
+            "short_name": "Mount Colah",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "The Council of the Shire of Hornsby",
+            "short_name": "Hornsby",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2079",
+            "short_name": "2079",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Mount Colah Station, Mount Colah NSW 2079, Australia",
+        "geometry": {
+          "location": {
+            "lat": -33.6714627,
+            "lng": 151.1149343
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -33.6701137197085,
+              "lng": 151.1162832802915
+            },
+            "southwest": {
+              "lat": -33.6728116802915,
+              "lng": 151.1135853197085
+            }
+          }
+        },
+        "place_id": "ChIJz5Y720dYDWsRwBEjwTP2vt8",
+        "plus_code": {
+          "compound_code": "84H7+CX Mount Colah, New South Wales, Australia",
+          "global_code": "4RRH84H7+CX"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "train_station",
+          "transit_station"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Mount Druitt",
+            "short_name": "Mount Druitt",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "train_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Mount Druitt",
+            "short_name": "Mount Druitt",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "City of Blacktown",
+            "short_name": "Blacktown",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2770",
+            "short_name": "2770",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Mount Druitt, Mount Druitt NSW 2770, Australia",
+        "geometry": {
+          "location": {
+            "lat": -33.7695837,
+            "lng": 150.8200646
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -33.7682347197085,
+              "lng": 150.8214135802915
+            },
+            "southwest": {
+              "lat": -33.7709326802915,
+              "lng": 150.8187156197085
+            }
+          }
+        },
+        "place_id": "ChIJmbTmrGCaEmsRNnfejRkmtXs",
+        "plus_code": {
+          "compound_code": "6RJC+52 Mount Druitt, New South Wales, Australia",
+          "global_code": "4RRG6RJC+52"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "train_station",
+          "transit_station"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Narwee Station",
+            "short_name": "Narwee Station",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "train_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Narwee",
+            "short_name": "Narwee",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Canterbury City Council",
+            "short_name": "Canterbury",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2209",
+            "short_name": "2209",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Narwee Station, Narwee NSW 2209, Australia",
+        "geometry": {
+          "location": {
+            "lat": -33.9475524,
+            "lng": 151.0701728
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -33.9462034197085,
+              "lng": 151.0715217802915
+            },
+            "southwest": {
+              "lat": -33.9489013802915,
+              "lng": 151.0688238197085
+            }
+          }
+        },
+        "place_id": "ChIJKS42Jmi5EmsRe1CYNqWB2y0",
+        "plus_code": {
+          "compound_code": "332C+X3 Narwee, New South Wales, Australia",
+          "global_code": "4RRH332C+X3"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "train_station",
+          "transit_station"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Penrith",
+            "short_name": "Penrith",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "train_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Penrith",
+            "short_name": "Penrith",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Penrith City Council",
+            "short_name": "Penrith",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2750",
+            "short_name": "2750",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Penrith, Penrith NSW 2750, Australia",
+        "geometry": {
+          "location": {
+            "lat": -33.7500866,
+            "lng": 150.6958229
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -33.7487376197085,
+              "lng": 150.6971718802915
+            },
+            "southwest": {
+              "lat": -33.75143558029149,
+              "lng": 150.6944739197085
+            }
+          }
+        },
+        "place_id": "ChIJ3evrHvOFEmsRUbQaxUASdsI",
+        "plus_code": {
+          "compound_code": "6MXW+X8 Penrith, New South Wales, Australia",
+          "global_code": "4RRG6MXW+X8"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "train_station",
+          "transit_station"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Richmond Station",
+            "short_name": "Richmond Station",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "train_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Richmond",
+            "short_name": "Richmond",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Hawkesbury City Council",
+            "short_name": "Hawkesbury City Council",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2753",
+            "short_name": "2753",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Richmond Station, Richmond NSW 2753, Australia",
+        "geometry": {
+          "location": {
+            "lat": -33.5988159,
+            "lng": 150.7525297
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -33.5974669197085,
+              "lng": 150.7538786802915
+            },
+            "southwest": {
+              "lat": -33.6001648802915,
+              "lng": 150.7511807197085
+            }
+          }
+        },
+        "place_id": "ChIJ6cfvL1t9DWsR0LygVJ68_24",
+        "plus_code": {
+          "compound_code": "CQ23+F2 Richmond, New South Wales, Australia",
+          "global_code": "4RRGCQ23+F2"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "train_station",
+          "transit_station"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Riverwood Station",
+            "short_name": "Riverwood Station",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "train_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Riverwood",
+            "short_name": "Riverwood",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Hurstville City Council",
+            "short_name": "Hurstville",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2210",
+            "short_name": "2210",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Riverwood Station, Riverwood NSW 2210, Australia",
+        "geometry": {
+          "location": {
+            "lat": -33.9514785,
+            "lng": 151.0524899
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -33.9501295197085,
+              "lng": 151.0538388802915
+            },
+            "southwest": {
+              "lat": -33.9528274802915,
+              "lng": 151.0511409197085
+            }
+          }
+        },
+        "place_id": "ChIJu1sLB0q5EmsRl1nAoHT6ciI",
+        "plus_code": {
+          "compound_code": "23X2+CX Riverwood, New South Wales, Australia",
+          "global_code": "4RRH23X2+CX"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "train_station",
+          "transit_station"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Schofields Station",
+            "short_name": "Schofields Station",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "train_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Schofields",
+            "short_name": "Schofields",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "City of Blacktown",
+            "short_name": "Blacktown",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2762",
+            "short_name": "2762",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Schofields Station, Schofields NSW 2762, Australia",
+        "geometry": {
+          "location": {
+            "lat": -33.7046401,
+            "lng": 150.8738676
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -33.7032911197085,
+              "lng": 150.8752165802915
+            },
+            "southwest": {
+              "lat": -33.7059890802915,
+              "lng": 150.8725186197085
+            }
+          }
+        },
+        "place_id": "ChIJifhx6LyeEmsRT2iYvdK2VYE",
+        "plus_code": {
+          "compound_code": "7VWF+4G Schofields, New South Wales, Australia",
+          "global_code": "4RRG7VWF+4G"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "train_station",
+          "transit_station"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "St James Station",
+            "short_name": "St James Station",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "train_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Sydney",
+            "short_name": "Sydney",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Council of the City of Sydney",
+            "short_name": "Sydney",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2000",
+            "short_name": "2000",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "St James Station, Sydney NSW 2000, Australia",
+        "geometry": {
+          "location": {
+            "lat": -33.8706943,
+            "lng": 151.2104294
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -33.86934531970849,
+              "lng": 151.2117783802915
+            },
+            "southwest": {
+              "lat": -33.87204328029149,
+              "lng": 151.2090804197085
+            }
+          }
+        },
+        "place_id": "ChIJcexqOBWuEmsRK1a72WYib80",
+        "plus_code": {
+          "compound_code": "46H6+P5 Sydney, New South Wales, Australia",
+          "global_code": "4RRH46H6+P5"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "train_station",
+          "transit_station"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Sutherland Station",
+            "short_name": "Sutherland Station",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "train_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Sutherland",
+            "short_name": "Sutherland",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Sutherland Shire",
+            "short_name": "Sutherland Shire",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2232",
+            "short_name": "2232",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Sutherland Station, Sutherland NSW 2232, Australia",
+        "geometry": {
+          "location": {
+            "lat": -34.0315181,
+            "lng": 151.0573477
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -34.0301691197085,
+              "lng": 151.0586966802915
+            },
+            "southwest": {
+              "lat": -34.0328670802915,
+              "lng": 151.0559987197085
+            }
+          }
+        },
+        "place_id": "ChIJqQSMX0jHEmsRZKYrpCFjGBk",
+        "plus_code": {
+          "compound_code": "X394+9W Sutherland, New South Wales, Australia",
+          "global_code": "4RQHX394+9W"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "train_station",
+          "transit_station"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Wolli Creek",
+            "short_name": "Wolli Creek",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "train_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Brodie Spark Drive",
+            "short_name": "Brodie Spark Dr",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Wolli Creek",
+            "short_name": "Wolli Creek",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Bayside Council",
+            "short_name": "Bayside Council",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2205",
+            "short_name": "2205",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Wolli Creek, Brodie Spark Dr, Wolli Creek NSW 2205, Australia",
+        "geometry": {
+          "location": {
+            "lat": -33.9285589,
+            "lng": 151.1540547
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -33.9272099197085,
+              "lng": 151.1554036802915
+            },
+            "southwest": {
+              "lat": -33.92990788029149,
+              "lng": 151.1527057197085
+            }
+          }
+        },
+        "place_id": "ChIJSeUE-pCwEmsRsGg5znGXH8w",
+        "plus_code": {
+          "compound_code": "35C3+HJ Wolli Creek, New South Wales, Australia",
+          "global_code": "4RRH35C3+HJ"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "train_station",
+          "transit_station"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Turramurra Station",
+            "short_name": "Turramurra Station",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "train_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Rohini St",
+            "short_name": "Rohini St",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Turramurra",
+            "short_name": "Turramurra",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Ku-ring-gai Council",
+            "short_name": "Ku-ring-gai Council",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2074",
+            "short_name": "2074",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Turramurra Station, Rohini St, Turramurra NSW 2074, Australia",
+        "geometry": {
+          "location": {
+            "lat": -33.732324,
+            "lng": 151.1283718
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -33.7309750197085,
+              "lng": 151.1297207802915
+            },
+            "southwest": {
+              "lat": -33.73367298029149,
+              "lng": 151.1270228197085
+            }
+          }
+        },
+        "place_id": "ChIJwY0YzcSnEmsR0m-GzFIgVoY",
+        "plus_code": {
+          "compound_code": "749H+38 Turramurra, New South Wales, Australia",
+          "global_code": "4RRH749H+38"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "train_station",
+          "transit_station"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Vineyard Station",
+            "short_name": "Vineyard Station",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "train_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Vineyard",
+            "short_name": "Vineyard",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "City of Blacktown",
+            "short_name": "Blacktown",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2765",
+            "short_name": "2765",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Vineyard Station, Vineyard NSW 2765, Australia",
+        "geometry": {
+          "location": {
+            "lat": -33.6504049,
+            "lng": 150.8511339
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -33.6490559197085,
+              "lng": 150.8524828802915
+            },
+            "southwest": {
+              "lat": -33.6517538802915,
+              "lng": 150.8497849197085
+            }
+          }
+        },
+        "place_id": "ChIJX_IlauadEmsRIBplbqtuaZw",
+        "plus_code": {
+          "compound_code": "8VX2+RF Vineyard, New South Wales, Australia",
+          "global_code": "4RRG8VX2+RF"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "train_station",
+          "transit_station"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Waverton",
+            "short_name": "Waverton",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "train_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Waverton",
+            "short_name": "Waverton",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "North Sydney Council",
+            "short_name": "North Sydney",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2060",
+            "short_name": "2060",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Waverton, Waverton NSW 2060, Australia",
+        "geometry": {
+          "location": {
+            "lat": -33.8378454,
+            "lng": 151.1976067
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -33.8364964197085,
+              "lng": 151.1989556802915
+            },
+            "southwest": {
+              "lat": -33.8391943802915,
+              "lng": 151.1962577197085
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "ChIJbavyYfquEmsRibgOyi4mFQ8",
+        "plus_code": {
+          "compound_code": "556X+V2 Waverton, New South Wales, Australia",
+          "global_code": "4RRH556X+V2"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "train_station",
+          "transit_station"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Wentworthville Station",
+            "short_name": "Wentworthville Station",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "train_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Wentworthville",
+            "short_name": "Wentworthville",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "City of Parramatta Council",
+            "short_name": "City of Parramatta Council",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2145",
+            "short_name": "2145",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Wentworthville Station, Wentworthville NSW 2145, Australia",
+        "geometry": {
+          "location": {
+            "lat": -33.8070931,
+            "lng": 150.9727022
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -33.80574411970849,
+              "lng": 150.9740511802915
+            },
+            "southwest": {
+              "lat": -33.80844208029149,
+              "lng": 150.9713532197085
+            }
+          }
+        },
+        "place_id": "ChIJfSr16ZWiEmsRddv4Y2JEuHU",
+        "plus_code": {
+          "compound_code": "5XVF+53 Wentworthville, New South Wales, Australia",
+          "global_code": "4RRG5XVF+53"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "train_station",
+          "transit_station"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Windsor Station",
+            "short_name": "Windsor Station",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "train_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Windsor",
+            "short_name": "Windsor",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Hawkesbury City Council",
+            "short_name": "Hawkesbury City Council",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2756",
+            "short_name": "2756",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Windsor Station, Windsor NSW 2756, Australia",
+        "geometry": {
+          "location": {
+            "lat": -33.6137621,
+            "lng": 150.8112687
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -33.6124131197085,
+              "lng": 150.8126176802915
+            },
+            "southwest": {
+              "lat": -33.6151110802915,
+              "lng": 150.8099197197085
+            }
+          }
+        },
+        "place_id": "ChIJj_aELoZiDWsRIhuoNyaSxr4",
+        "plus_code": {
+          "compound_code": "9RP6+FG Windsor, New South Wales, Australia",
+          "global_code": "4RRG9RP6+FG"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "train_station",
+          "transit_station"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Wolli Creek",
+            "short_name": "Wolli Creek",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "train_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Brodie Spark Drive",
+            "short_name": "Brodie Spark Dr",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Wolli Creek",
+            "short_name": "Wolli Creek",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Bayside Council",
+            "short_name": "Bayside Council",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New South Wales",
+            "short_name": "NSW",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Australia",
+            "short_name": "AU",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "2205",
+            "short_name": "2205",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Wolli Creek, Brodie Spark Dr, Wolli Creek NSW 2205, Australia",
+        "geometry": {
+          "location": {
+            "lat": -33.9285589,
+            "lng": 151.1540547
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -33.9272099197085,
+              "lng": 151.1554036802915
+            },
+            "southwest": {
+              "lat": -33.92990788029149,
+              "lng": 151.1527057197085
+            }
+          }
+        },
+        "place_id": "ChIJSeUE-pCwEmsRsGg5znGXH8w",
+        "plus_code": {
+          "compound_code": "35C3+HJ Wolli Creek, New South Wales, Australia",
+          "global_code": "4RRH35C3+HJ"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "train_station",
+          "transit_station"
+        ]
+      }
+    ],
+    "status": "OK"
+  }
+]
