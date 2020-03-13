@@ -1,8 +1,8 @@
 [
   {
-    "Pick Up": "Pitt St, Sydney NSW 2000",
-    "Drop Off": "George St, Sydney NSW 2000",
-    "Time": "14:48:00",
+    "Pick Up": "Pitt Street, Sydney CBD, New South Wales, 2000",
+    "Drop Off": "Underwood Street, Paddington, New South Wales, 2021",
+    "Time": "10:04:00",
     "Walking": {
       "geocoded_waypoints": [
         {
@@ -14,7 +14,7 @@
         },
         {
           "geocoder_status": "OK",
-          "place_id": "ChIJt1JtIT-uEmsRC0b2e2VCR6o",
+          "place_id": "ChIJJ7QZPUKuEmsRFatCSG75q3U",
           "types": [
             "route"
           ]
@@ -24,29 +24,29 @@
         {
           "bounds": {
             "northeast": {
-              "lat": -33.8702105,
-              "lng": 151.2082755
+              "lat": -33.8624584,
+              "lng": 151.2091293
             },
             "southwest": {
               "lat": -33.8720143,
-              "lng": 151.2069704
+              "lng": 151.2082089
             }
           },
           "copyrights": "Map data \u00a92020",
           "legs": [
             {
               "distance": {
-                "text": "0.3 km",
-                "value": 318
+                "text": "1.1 km",
+                "value": 1136
               },
               "duration": {
-                "text": "4 mins",
-                "value": 228
+                "text": "14 mins",
+                "value": 811
               },
-              "end_address": "George St, Sydney NSW, Australia",
+              "end_address": "Underwood St, Sydney NSW 2000, Australia",
               "end_location": {
-                "lat": -33.8702105,
-                "lng": 151.2069704
+                "lat": -33.8625849,
+                "lng": 151.2084617
               },
               "start_address": "Pitt St, Sydney NSW 2000, Australia",
               "start_location": {
@@ -56,20 +56,20 @@
               "steps": [
                 {
                   "distance": {
-                    "text": "0.1 km",
-                    "value": 140
+                    "text": "1.1 km",
+                    "value": 1072
                   },
                   "duration": {
-                    "text": "2 mins",
-                    "value": 96
+                    "text": "13 mins",
+                    "value": 764
                   },
                   "end_location": {
-                    "lat": -33.8707189,
-                    "lng": 151.2082331
+                    "lat": -33.8624584,
+                    "lng": 151.2090833
                   },
                   "html_instructions": "Head <b>north</b> on <b>Pitt St</b> toward <b>Market St</b>",
                   "polyline": {
-                    "points": "`svmEiz{y[gACiBEc@A]AM@?F"
+                    "points": "`svmEiz{y[gACiBEc@A]AM@?DOAS?Q?C?OAG?M?M?KAA?G?U?GAM?S?MAK?M?SAmAC[A?EMAs@EiAEcCK_@CyAMOAmFWMAC?C?aAEw@GSAMAGASCsAMi@EsAIM?YCq@G]Co@KOD[CMF"
                   },
                   "start_location": {
                     "lat": -33.8720143,
@@ -79,49 +79,25 @@
                 },
                 {
                   "distance": {
-                    "text": "0.1 km",
-                    "value": 116
+                    "text": "64 m",
+                    "value": 64
                   },
                   "duration": {
                     "text": "1 min",
-                    "value": 89
+                    "value": 47
                   },
                   "end_location": {
-                    "lat": -33.8707312,
-                    "lng": 151.2069731
+                    "lat": -33.8625849,
+                    "lng": 151.2084617
                   },
-                  "html_instructions": "Turn <b>left</b> onto <b>Market St</b>",
+                  "html_instructions": "Turn <b>left</b> onto <b>Underwood St</b>",
                   "maneuver": "turn-left",
                   "polyline": {
-                    "points": "~jvmEmz{y[?T?`D@bA"
+                    "points": "jwtmEw_|y[BRRfB"
                   },
                   "start_location": {
-                    "lat": -33.8707189,
-                    "lng": 151.2082331
-                  },
-                  "travel_mode": "WALKING"
-                },
-                {
-                  "distance": {
-                    "text": "62 m",
-                    "value": 62
-                  },
-                  "duration": {
-                    "text": "1 min",
-                    "value": 43
-                  },
-                  "end_location": {
-                    "lat": -33.8702105,
-                    "lng": 151.2069704
-                  },
-                  "html_instructions": "Turn <b>right</b> onto <b>George St</b>",
-                  "maneuver": "turn-right",
-                  "polyline": {
-                    "points": "`kvmEqr{y[C?w@?k@?"
-                  },
-                  "start_location": {
-                    "lat": -33.8707312,
-                    "lng": 151.2069731
+                    "lat": -33.8624584,
+                    "lng": 151.2090833
                   },
                   "travel_mode": "WALKING"
                 }
@@ -131,9 +107,9 @@
             }
           ],
           "overview_polyline": {
-            "points": "`svmEiz{y[sFMM@?F?vD@bAC?cB?"
+            "points": "`svmEiz{y[sFMM@?Dc@Am@Ai@AoBCaBE[A?EaAGmEQyBQ}FYwAGaBMgBQ}BOwBOo@KOD[CMFVzB"
           },
-          "summary": "Pitt St and Market St",
+          "summary": "Pitt St",
           "warnings": [
             "Walking directions are in beta. Use caution \u2013 This route may be missing sidewalks or pedestrian paths."
           ],
@@ -153,7 +129,7 @@
         },
         {
           "geocoder_status": "OK",
-          "place_id": "ChIJt1JtIT-uEmsRC0b2e2VCR6o",
+          "place_id": "ChIJJ7QZPUKuEmsRFatCSG75q3U",
           "types": [
             "route"
           ]
@@ -163,29 +139,29 @@
         {
           "bounds": {
             "northeast": {
-              "lat": -33.8707549,
-              "lng": 151.208234
+              "lat": -33.8618468,
+              "lng": 151.2104489
             },
             "southwest": {
               "lat": -33.8720127,
-              "lng": 151.2069746
+              "lng": 151.2048014
             }
           },
           "copyrights": "Map data \u00a92020",
           "legs": [
             {
               "distance": {
-                "text": "0.3 km",
-                "value": 256
+                "text": "2.1 km",
+                "value": 2070
               },
               "duration": {
-                "text": "2 mins",
-                "value": 118
+                "text": "11 mins",
+                "value": 676
               },
-              "end_address": "George St, Sydney NSW, Australia",
+              "end_address": "Underwood St, Sydney NSW 2000, Australia",
               "end_location": {
-                "lat": -33.8707672,
-                "lng": 151.2069746
+                "lat": -33.86255,
+                "lng": 151.2084514
               },
               "start_address": "Pitt St, Sydney NSW 2000, Australia",
               "start_location": {
@@ -218,25 +194,239 @@
                 },
                 {
                   "distance": {
-                    "text": "0.1 km",
-                    "value": 116
+                    "text": "0.3 km",
+                    "value": 251
                   },
                   "duration": {
-                    "text": "1 min",
-                    "value": 68
+                    "text": "2 mins",
+                    "value": 110
                   },
                   "end_location": {
-                    "lat": -33.8707672,
-                    "lng": 151.2069746
+                    "lat": -33.87089160000001,
+                    "lng": 151.2055236
                   },
-                  "html_instructions": "Turn <b>left</b> onto <b>Market St</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+                  "html_instructions": "Turn <b>left</b> onto <b>Market St</b>",
                   "maneuver": "turn-left",
                   "polyline": {
-                    "points": "dkvmEmz{y[@T?`D@bA"
+                    "points": "dkvmEmz{y[@T?`D@bABt@FnA?TFvABl@"
                   },
                   "start_location": {
                     "lat": -33.8707549,
                     "lng": 151.208234
+                  },
+                  "travel_mode": "DRIVING"
+                },
+                {
+                  "distance": {
+                    "text": "0.7 km",
+                    "value": 729
+                  },
+                  "duration": {
+                    "text": "3 mins",
+                    "value": 195
+                  },
+                  "end_location": {
+                    "lat": -33.8643629,
+                    "lng": 151.2048014
+                  },
+                  "html_instructions": "Turn <b>right</b> onto <b>Clarence St</b>",
+                  "maneuver": "turn-right",
+                  "polyline": {
+                    "points": "`lvmEoi{y[g@B}AJ}BLuDPa@DuAH{@FUBqETwDTaAD}@DkCJ"
+                  },
+                  "start_location": {
+                    "lat": -33.87089160000001,
+                    "lng": 151.2055236
+                  },
+                  "travel_mode": "DRIVING"
+                },
+                {
+                  "distance": {
+                    "text": "70 m",
+                    "value": 70
+                  },
+                  "duration": {
+                    "text": "1 min",
+                    "value": 31
+                  },
+                  "end_location": {
+                    "lat": -33.8642654,
+                    "lng": 151.2055524
+                  },
+                  "html_instructions": "Turn <b>right</b> onto <b>Jamison St</b>",
+                  "maneuver": "turn-right",
+                  "polyline": {
+                    "points": "fcumE_e{y[GiAIkA"
+                  },
+                  "start_location": {
+                    "lat": -33.8643629,
+                    "lng": 151.2048014
+                  },
+                  "travel_mode": "DRIVING"
+                },
+                {
+                  "distance": {
+                    "text": "0.1 km",
+                    "value": 137
+                  },
+                  "duration": {
+                    "text": "1 min",
+                    "value": 52
+                  },
+                  "end_location": {
+                    "lat": -33.8633128,
+                    "lng": 151.2063246
+                  },
+                  "html_instructions": "Continue onto <b>Lang St</b>",
+                  "polyline": {
+                    "points": "tbumEui{y[KMEGEGEGMQYc@EGEGY]IKECGCEACAI?I@]D"
+                  },
+                  "start_location": {
+                    "lat": -33.8642654,
+                    "lng": 151.2055524
+                  },
+                  "travel_mode": "DRIVING"
+                },
+                {
+                  "distance": {
+                    "text": "0.1 km",
+                    "value": 111
+                  },
+                  "duration": {
+                    "text": "1 min",
+                    "value": 51
+                  },
+                  "end_location": {
+                    "lat": -33.8634797,
+                    "lng": 151.2074803
+                  },
+                  "html_instructions": "Turn <b>right</b> onto <b>Grosvenor St</b>",
+                  "maneuver": "turn-right",
+                  "polyline": {
+                    "points": "t|tmEon{y[?i@?CBiA?W@]DSBKPY"
+                  },
+                  "start_location": {
+                    "lat": -33.8633128,
+                    "lng": 151.2063246
+                  },
+                  "travel_mode": "DRIVING"
+                },
+                {
+                  "distance": {
+                    "text": "0.3 km",
+                    "value": 275
+                  },
+                  "duration": {
+                    "text": "1 min",
+                    "value": 69
+                  },
+                  "end_location": {
+                    "lat": -33.86342339999999,
+                    "lng": 151.2103768
+                  },
+                  "html_instructions": "Continue onto <b>Bridge St</b>",
+                  "polyline": {
+                    "points": "v}tmEwu{y[NQDIBI?c@IsDAg@?w@@w@A[SkBEe@"
+                  },
+                  "start_location": {
+                    "lat": -33.8634797,
+                    "lng": 151.2074803
+                  },
+                  "travel_mode": "DRIVING"
+                },
+                {
+                  "distance": {
+                    "text": "67 m",
+                    "value": 67
+                  },
+                  "duration": {
+                    "text": "1 min",
+                    "value": 22
+                  },
+                  "end_location": {
+                    "lat": -33.8628202,
+                    "lng": 151.2104489
+                  },
+                  "html_instructions": "Turn <b>left</b> onto <b>Loftus St</b>",
+                  "maneuver": "turn-left",
+                  "polyline": {
+                    "points": "j}tmE{g|y[{@G{@E"
+                  },
+                  "start_location": {
+                    "lat": -33.86342339999999,
+                    "lng": 151.2103768
+                  },
+                  "travel_mode": "DRIVING"
+                },
+                {
+                  "distance": {
+                    "text": "0.2 km",
+                    "value": 163
+                  },
+                  "duration": {
+                    "text": "1 min",
+                    "value": 50
+                  },
+                  "end_location": {
+                    "lat": -33.8618468,
+                    "lng": 151.2092173
+                  },
+                  "html_instructions": "Turn <b>left</b> onto <b>Reiby Pl</b>",
+                  "maneuver": "turn-left",
+                  "polyline": {
+                    "points": "rytmEih|y[Ib@CFCDcAbA{@t@UROJABCB?BC\\"
+                  },
+                  "start_location": {
+                    "lat": -33.8628202,
+                    "lng": 151.2104489
+                  },
+                  "travel_mode": "DRIVING"
+                },
+                {
+                  "distance": {
+                    "text": "63 m",
+                    "value": 63
+                  },
+                  "duration": {
+                    "text": "1 min",
+                    "value": 23
+                  },
+                  "end_location": {
+                    "lat": -33.8624121,
+                    "lng": 151.2091295
+                  },
+                  "html_instructions": "Turn <b>left</b> onto <b>Pitt St</b>",
+                  "maneuver": "turn-left",
+                  "polyline": {
+                    "points": "pstmEs`|y[jALR@N@"
+                  },
+                  "start_location": {
+                    "lat": -33.8618468,
+                    "lng": 151.2092173
+                  },
+                  "travel_mode": "DRIVING"
+                },
+                {
+                  "distance": {
+                    "text": "64 m",
+                    "value": 64
+                  },
+                  "duration": {
+                    "text": "1 min",
+                    "value": 23
+                  },
+                  "end_location": {
+                    "lat": -33.86255,
+                    "lng": 151.2084514
+                  },
+                  "html_instructions": "Turn <b>right</b> onto <b>Underwood St</b>",
+                  "maneuver": "turn-right",
+                  "polyline": {
+                    "points": "`wtmEa`|y[D^TfB"
+                  },
+                  "start_location": {
+                    "lat": -33.8624121,
+                    "lng": 151.2091295
                   },
                   "travel_mode": "DRIVING"
                 }
@@ -246,9 +436,9 @@
             }
           ],
           "overview_polyline": {
-            "points": "`svmEaz{y[{FKBzF"
+            "points": "`svmEaz{y[{FK@vDDxBRjFyLn@iEZiKj@_CJkCJGiAIkAKMKOSY_AqAOOMEMAg@FBwB?WFq@Te@T[BI?c@K{E@oBUgCEe@{@G{@EIb@GL_CxBe@^EFC`@~ANN@D^TfB"
           },
-          "summary": "Pitt St and Market St",
+          "summary": "Clarence St",
           "warnings": [],
           "waypoint_order": []
         }
@@ -266,7 +456,7 @@
         },
         {
           "geocoder_status": "OK",
-          "place_id": "ChIJt1JtIT-uEmsRC0b2e2VCR6o",
+          "place_id": "ChIJJ7QZPUKuEmsRFatCSG75q3U",
           "types": [
             "route"
           ]
@@ -276,29 +466,29 @@
         {
           "bounds": {
             "northeast": {
-              "lat": -33.8702105,
-              "lng": 151.2082755
+              "lat": -33.8624584,
+              "lng": 151.2091293
             },
             "southwest": {
               "lat": -33.8720143,
-              "lng": 151.2069704
+              "lng": 151.2082089
             }
           },
           "copyrights": "Map data \u00a92020",
           "legs": [
             {
               "distance": {
-                "text": "0.3 km",
-                "value": 318
+                "text": "1.1 km",
+                "value": 1136
               },
               "duration": {
-                "text": "4 mins",
-                "value": 229
+                "text": "14 mins",
+                "value": 811
               },
-              "end_address": "George St, Sydney NSW, Australia",
+              "end_address": "Underwood St, Sydney NSW 2000, Australia",
               "end_location": {
-                "lat": -33.8702105,
-                "lng": 151.2069704
+                "lat": -33.8625849,
+                "lng": 151.2084617
               },
               "start_address": "Pitt St, Sydney NSW 2000, Australia",
               "start_location": {
@@ -308,20 +498,20 @@
               "steps": [
                 {
                   "distance": {
-                    "text": "0.3 km",
-                    "value": 318
+                    "text": "1.1 km",
+                    "value": 1136
                   },
                   "duration": {
-                    "text": "4 mins",
-                    "value": 228
+                    "text": "14 mins",
+                    "value": 811
                   },
                   "end_location": {
-                    "lat": -33.8702105,
-                    "lng": 151.2069704
+                    "lat": -33.8625849,
+                    "lng": 151.2084617
                   },
-                  "html_instructions": "Walk to George St, Sydney NSW, Australia",
+                  "html_instructions": "Walk to Underwood St, Sydney NSW 2000, Australia",
                   "polyline": {
-                    "points": "`svmEiz{y[gACiBEc@A]AM@?F?T?`D@bAC?w@?k@?"
+                    "points": "`svmEiz{y[gACiBEc@A]AM@?DOAS?Q?C?OAG?M?M?KAA?G?U?GAM?S?MAK?M?SAmAC[A?EMAs@EiAEcCK_@CyAMOAmFWMAC?C?aAEw@GSAMAGASCsAMi@EsAIM?YCq@G]Co@KOD[CMFBRRfB"
                   },
                   "start_location": {
                     "lat": -33.8720143,
@@ -330,20 +520,20 @@
                   "steps": [
                     {
                       "distance": {
-                        "text": "0.1 km",
-                        "value": 140
+                        "text": "1.1 km",
+                        "value": 1072
                       },
                       "duration": {
-                        "text": "2 mins",
-                        "value": 96
+                        "text": "13 mins",
+                        "value": 764
                       },
                       "end_location": {
-                        "lat": -33.8707189,
-                        "lng": 151.2082331
+                        "lat": -33.8624584,
+                        "lng": 151.2090833
                       },
                       "html_instructions": "Head <b>north</b> on <b>Pitt St</b> toward <b>Market St</b>",
                       "polyline": {
-                        "points": "`svmEiz{y[gACiBEc@A]AM@?F"
+                        "points": "`svmEiz{y[gACiBEc@A]AM@?DOAS?Q?C?OAG?M?M?KAA?G?U?GAM?S?MAK?M?SAmAC[A?EMAs@EiAEcCK_@CyAMOAmFWMAC?C?aAEw@GSAMAGASCsAMi@EsAIM?YCq@G]Co@KOD[CMF"
                       },
                       "start_location": {
                         "lat": -33.8720143,
@@ -353,49 +543,25 @@
                     },
                     {
                       "distance": {
-                        "text": "0.1 km",
-                        "value": 116
+                        "text": "64 m",
+                        "value": 64
                       },
                       "duration": {
                         "text": "1 min",
-                        "value": 89
+                        "value": 47
                       },
                       "end_location": {
-                        "lat": -33.8707312,
-                        "lng": 151.2069731
+                        "lat": -33.8625849,
+                        "lng": 151.2084617
                       },
-                      "html_instructions": "Turn <b>left</b> onto <b>Market St</b>",
+                      "html_instructions": "Turn <b>left</b> onto <b>Underwood St</b>",
                       "maneuver": "turn-left",
                       "polyline": {
-                        "points": "~jvmEmz{y[?T?`D@bA"
+                        "points": "jwtmEw_|y[BRRfB"
                       },
                       "start_location": {
-                        "lat": -33.8707189,
-                        "lng": 151.2082331
-                      },
-                      "travel_mode": "WALKING"
-                    },
-                    {
-                      "distance": {
-                        "text": "62 m",
-                        "value": 62
-                      },
-                      "duration": {
-                        "text": "1 min",
-                        "value": 43
-                      },
-                      "end_location": {
-                        "lat": -33.8702105,
-                        "lng": 151.2069704
-                      },
-                      "html_instructions": "Turn <b>right</b> onto <b>George St</b>",
-                      "maneuver": "turn-right",
-                      "polyline": {
-                        "points": "`kvmEqr{y[C?w@?k@?"
-                      },
-                      "start_location": {
-                        "lat": -33.8707312,
-                        "lng": 151.2069731
+                        "lat": -33.8624584,
+                        "lng": 151.2090833
                       },
                       "travel_mode": "WALKING"
                     }
@@ -408,9 +574,9 @@
             }
           ],
           "overview_polyline": {
-            "points": "`svmEiz{y[sFMM@?F?vD@bAC?cB?"
+            "points": "`svmEiz{y[sFMM@?Dc@Am@Ai@AoBCaBE[A?EaAGmEQyBQ}FYwAGaBMgBQ}BOwBOo@KOD[CMFVzB"
           },
-          "summary": "Pitt St and Market St",
+          "summary": "Pitt St",
           "warnings": [
             "Walking directions are in beta. Use caution \u2013 This route may be missing sidewalks or pedestrian paths."
           ],
@@ -421,21 +587,21 @@
     }
   },
   {
-    "Pick Up": "George St, Sydney NSW 2000",
-    "Drop Off": "Bayview Hill Rd, Rose Bay NSW 2029",
-    "Time": "15:36:00",
+    "Pick Up": "Park St, Sydney NSW 2000, Australia",
+    "Drop Off": "Pacific Hwy, North Sydney NSW 2060, Australia",
+    "Time": "10:35:00",
     "Walking": {
       "geocoded_waypoints": [
         {
           "geocoder_status": "OK",
-          "place_id": "ChIJt1JtIT-uEmsRC0b2e2VCR6o",
+          "place_id": "ChIJU2s2Gz6uEmsRIuwzjuh3Qa0",
           "types": [
             "route"
           ]
         },
         {
           "geocoder_status": "OK",
-          "place_id": "ChIJyyG90lKsEmsRMqOo92JTvAI",
+          "place_id": "EiJQYWNpZmljIEh3eSwgU3lkbmV5IE5TVywgQXVzdHJhbGlhIi4qLAoUChIJie3QqpeQnmsRu6eqHWtP-YoSFAoSCT90mvM4mBJrEVCoMhZofQED",
           "types": [
             "route"
           ]
@@ -445,246 +611,557 @@
         {
           "bounds": {
             "northeast": {
-              "lat": -33.8639693,
-              "lng": 151.2718937
+              "lat": -33.7333736,
+              "lng": 151.2118149
             },
             "southwest": {
-              "lat": -33.8792403,
-              "lng": 151.2069704
+              "lat": -33.8732334,
+              "lng": 151.1312934
             }
           },
           "copyrights": "Map data \u00a92020 Google",
           "legs": [
             {
               "distance": {
-                "text": "7.8 km",
-                "value": 7818
+                "text": "19.2 km",
+                "value": 19154
               },
               "duration": {
-                "text": "1 hour 40 mins",
-                "value": 5998
+                "text": "3 hours 58 mins",
+                "value": 14271
               },
-              "end_address": "Bayview Hill Rd, Sydney NSW, Australia",
+              "end_address": "Pacific Hwy, Sydney NSW, Australia",
               "end_location": {
-                "lat": -33.8640504,
-                "lng": 151.2710834
+                "lat": -33.7333736,
+                "lng": 151.1312934
               },
-              "start_address": "George St, Sydney NSW, Australia",
+              "start_address": "Park St, Sydney NSW 2000, Australia",
               "start_location": {
-                "lat": -33.8702105,
-                "lng": 151.2069704
+                "lat": -33.8732334,
+                "lng": 151.2099025
               },
               "steps": [
                 {
                   "distance": {
+                    "text": "0.8 km",
+                    "value": 778
+                  },
+                  "duration": {
+                    "text": "9 mins",
+                    "value": 562
+                  },
+                  "end_location": {
+                    "lat": -33.86623410000001,
+                    "lng": 151.2107166
+                  },
+                  "html_instructions": "Head <b>north</b> on <b>Elizabeth St</b> toward <b>Market St</b>",
+                  "polyline": {
+                    "points": "tzvmE{d|y[YBG?c@CuEYoEWMAO?_AG_AIO?EAEAgAGu@IIAOAUCQAy@EqBE{@Ge@CUA]CgAGyAM_@CME"
+                  },
+                  "start_location": {
+                    "lat": -33.8732334,
+                    "lng": 151.2099025
+                  },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": {
+                    "text": "56 m",
+                    "value": 56
+                  },
+                  "duration": {
+                    "text": "1 min",
+                    "value": 46
+                  },
+                  "end_location": {
+                    "lat": -33.8658778,
+                    "lng": 151.2111049
+                  },
+                  "html_instructions": "<b>Elizabeth St</b> turns slightly <b>right</b> and becomes <b>Chifley Square</b>",
+                  "polyline": {
+                    "points": "|numE_j|y[KIGIi@q@GE"
+                  },
+                  "start_location": {
+                    "lat": -33.86623410000001,
+                    "lng": 151.2107166
+                  },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": {
+                    "text": "0.1 km",
+                    "value": 108
+                  },
+                  "duration": {
+                    "text": "1 min",
+                    "value": 78
+                  },
+                  "end_location": {
+                    "lat": -33.864954,
+                    "lng": 151.2115751
+                  },
+                  "html_instructions": "Continue onto <b>Phillip St</b>",
+                  "polyline": {
+                    "points": "vlumEkl|y[KGIE]Oa@QYMWKa@OOE"
+                  },
+                  "start_location": {
+                    "lat": -33.8658778,
+                    "lng": 151.2111049
+                  },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": {
+                    "text": "0.1 km",
+                    "value": 140
+                  },
+                  "duration": {
+                    "text": "2 mins",
+                    "value": 90
+                  },
+                  "end_location": {
+                    "lat": -33.8642274,
+                    "lng": 151.2103396
+                  },
+                  "html_instructions": "Turn <b>left</b> onto <b>Bent St</b>",
+                  "maneuver": "turn-left",
+                  "polyline": {
+                    "points": "|fumEko|y[IVQ\\GPKT[^INGHKLEHGHGLADEHCDAFAP"
+                  },
+                  "start_location": {
+                    "lat": -33.864954,
+                    "lng": 151.2115751
+                  },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": {
                     "text": "0.3 km",
-                    "value": 307
+                    "value": 320
                   },
                   "duration": {
                     "text": "4 mins",
-                    "value": 230
+                    "value": 216
                   },
                   "end_location": {
-                    "lat": -33.87292740000001,
-                    "lng": 151.207038
+                    "lat": -33.8614851,
+                    "lng": 151.2104348
                   },
-                  "html_instructions": "Head <b>south</b> on <b>George St</b> toward <b>Market St</b>",
+                  "html_instructions": "Slight <b>right</b> onto <b>Loftus St</b>",
+                  "maneuver": "turn-slight-right",
                   "polyline": {
-                    "points": "xgvmEqr{y[j@?v@?B?LA\\?b@AxBCpAAr@AXAJAL?b@@N?"
+                    "points": "lbumEsg|y[G@QDI?G?A?K?W?WAQA[AOAu@Eu@EKAOAqAIYCMISAsAKIFCFCD?L"
                   },
                   "start_location": {
-                    "lat": -33.8702105,
-                    "lng": 151.2069704
+                    "lat": -33.8642274,
+                    "lng": 151.2103396
+                  },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": {
+                    "text": "40 m",
+                    "value": 40
+                  },
+                  "duration": {
+                    "text": "1 min",
+                    "value": 30
+                  },
+                  "end_location": {
+                    "lat": -33.8611257,
+                    "lng": 151.2104729
+                  },
+                  "html_instructions": "Turn <b>right</b>",
+                  "maneuver": "turn-right",
+                  "polyline": {
+                    "points": "hqtmEeh|y[YCE?A?G?]C"
+                  },
+                  "start_location": {
+                    "lat": -33.8614851,
+                    "lng": 151.2104348
+                  },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": {
+                    "text": "4 m",
+                    "value": 4
+                  },
+                  "duration": {
+                    "text": "1 min",
+                    "value": 3
+                  },
+                  "end_location": {
+                    "lat": -33.8611216,
+                    "lng": 151.2104313
+                  },
+                  "html_instructions": "Turn <b>left</b>",
+                  "maneuver": "turn-left",
+                  "polyline": {
+                    "points": "`otmEmh|y[AF"
+                  },
+                  "start_location": {
+                    "lat": -33.8611257,
+                    "lng": 151.2104729
+                  },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": {
+                    "text": "1.3 km",
+                    "value": 1300
+                  },
+                  "duration": {
+                    "text": "6 mins",
+                    "value": 381
+                  },
+                  "end_location": {
+                    "lat": -33.8494722,
+                    "lng": 151.2106514
+                  },
+                  "html_instructions": "Take the <b>Circular Quay - Parramatta</b>/<wbr/><b>Milsons Point - Circular Quay</b>/<wbr/><b>Parramatta - Darling Harbor</b> ferry to Milsons Point<div style=\"font-size:0.9em\">Toll road</div>",
+                  "maneuver": "ferry",
+                  "polyline": {
+                    "points": "~ntmEeh|y[_@Ae@Es@GWAySaBaCI{@@kA@qBDwUdAyK@"
+                  },
+                  "start_location": {
+                    "lat": -33.8611216,
+                    "lng": 151.2104313
+                  },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": {
+                    "text": "49 m",
+                    "value": 49
+                  },
+                  "duration": {
+                    "text": "1 min",
+                    "value": 36
+                  },
+                  "end_location": {
+                    "lat": -33.8491314,
+                    "lng": 151.2105213
+                  },
+                  "html_instructions": "Continue straight",
+                  "maneuver": "straight",
+                  "polyline": {
+                    "points": "dfrmEqi|y[AGAEAAA??AA?A?A?A@A?A@C@]^A@C@G@"
+                  },
+                  "start_location": {
+                    "lat": -33.8494722,
+                    "lng": 151.2106514
+                  },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": {
+                    "text": "24 m",
+                    "value": 24
+                  },
+                  "duration": {
+                    "text": "1 min",
+                    "value": 18
+                  },
+                  "end_location": {
+                    "lat": -33.8491601,
+                    "lng": 151.2107687
+                  },
+                  "html_instructions": "Sharp <b>right</b> toward <b>Paul St</b>",
+                  "maneuver": "turn-sharp-right",
+                  "polyline": {
+                    "points": "`drmEwh|y[BE@C?M?M?K"
+                  },
+                  "start_location": {
+                    "lat": -33.8491314,
+                    "lng": 151.2105213
+                  },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": {
+                    "text": "49 m",
+                    "value": 49
+                  },
+                  "duration": {
+                    "text": "1 min",
+                    "value": 73
+                  },
+                  "end_location": {
+                    "lat": -33.8488327,
+                    "lng": 151.2110475
+                  },
+                  "html_instructions": "Turn <b>left</b> toward <b>Paul St</b><div style=\"font-size:0.9em\">Take the stairs</div>",
+                  "maneuver": "turn-left",
+                  "polyline": {
+                    "points": "fdrmEij|y[E?G?CAYUMSECAG"
+                  },
+                  "start_location": {
+                    "lat": -33.8491601,
+                    "lng": 151.2107687
+                  },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": {
+                    "text": "76 m",
+                    "value": 76
+                  },
+                  "duration": {
+                    "text": "1 min",
+                    "value": 70
+                  },
+                  "end_location": {
+                    "lat": -33.8486579,
+                    "lng": 151.2118044
+                  },
+                  "html_instructions": "Slight <b>right</b> onto <b>Paul St</b>",
+                  "maneuver": "turn-slight-right",
+                  "polyline": {
+                    "points": "dbrmEal|y[GcAKsAM@"
+                  },
+                  "start_location": {
+                    "lat": -33.8488327,
+                    "lng": 151.2110475
                   },
                   "travel_mode": "WALKING"
                 },
                 {
                   "distance": {
                     "text": "0.5 km",
-                    "value": 520
+                    "value": 505
                   },
                   "duration": {
-                    "text": "6 mins",
-                    "value": 388
+                    "text": "7 mins",
+                    "value": 432
                   },
                   "end_location": {
-                    "lat": -33.8736463,
-                    "lng": 151.2126316
+                    "lat": -33.8443305,
+                    "lng": 151.2106846
                   },
-                  "html_instructions": "Turn <b>left</b> onto <b>Park St</b>",
+                  "html_instructions": "Turn <b>left</b> onto <b>Alfred St S</b><div style=\"font-size:0.9em\">Go through 1 roundabout</div>",
                   "maneuver": "turn-left",
                   "polyline": {
-                    "points": "xxvmE_s{y[BUDi@PkC?QFcE@QJeC@Q@SJ_@Dg@R{B@OFk@Dq@R{B?ED_@DWBQ"
+                    "points": "barmEwp|y[cBLy@FM@o@FE?A@?@A??@A?A@A?A??@A?A?A?AAA?A??AA??AA?AAIBK@K@SBMB_BZ_@DqAJg@BO@EBMD_@F_AHI@KDIDCB{BjA"
                   },
                   "start_location": {
-                    "lat": -33.87292740000001,
-                    "lng": 151.207038
+                    "lat": -33.8486579,
+                    "lng": 151.2118044
                   },
                   "travel_mode": "WALKING"
                 },
                 {
                   "distance": {
-                    "text": "0.9 km",
-                    "value": 894
-                  },
-                  "duration": {
-                    "text": "13 mins",
-                    "value": 764
-                  },
-                  "end_location": {
-                    "lat": -33.8753256,
-                    "lng": 151.2219858
-                  },
-                  "html_instructions": "Continue onto <b>William St</b>",
-                  "polyline": {
-                    "points": "h}vmE}u|y[D[Dm@@CB]BYFq@Fe@B[LyABQTqCDk@BQZeD@QJq@?EHi@@KFe@?M?M@QFi@?CJmABO@QDi@LkAJkA@O@O@KN_BBWCOBk@BO?K@Q@SHu@BOBQBQDSBMBMBOJ[Li@HUDKDK"
-                  },
-                  "start_location": {
-                    "lat": -33.8736463,
-                    "lng": 151.2126316
-                  },
-                  "travel_mode": "WALKING"
-                },
-                {
-                  "distance": {
-                    "text": "85 m",
-                    "value": 85
+                    "text": "69 m",
+                    "value": 69
                   },
                   "duration": {
                     "text": "1 min",
-                    "value": 63
+                    "value": 46
                   },
                   "end_location": {
-                    "lat": -33.8748082,
-                    "lng": 151.2225249
+                    "lat": -33.8436638,
+                    "lng": 151.2105252
                   },
-                  "html_instructions": "Turn <b>left</b> onto <b>Darlinghurst Rd</b>",
-                  "maneuver": "turn-left",
+                  "html_instructions": "Slight <b>left</b> to stay on <b>Alfred St S</b>",
+                  "maneuver": "turn-slight-left",
                   "polyline": {
-                    "points": "xgwmEmp~y[EAAAC@CAGCOIKKKKOOCCIKSSHK"
+                    "points": "`fqmEwi|y[GDGFEBIDM@OBU?_@?Q?"
                   },
                   "start_location": {
-                    "lat": -33.8753256,
-                    "lng": 151.2219858
+                    "lat": -33.8443305,
+                    "lng": 151.2106846
                   },
                   "travel_mode": "WALKING"
                 },
                 {
                   "distance": {
-                    "text": "0.4 km",
-                    "value": 370
-                  },
-                  "duration": {
-                    "text": "4 mins",
-                    "value": 263
-                  },
-                  "end_location": {
-                    "lat": -33.8760123,
-                    "lng": 151.225951
-                  },
-                  "html_instructions": "Turn <b>right</b> onto <b>Bayswater Rd</b>",
-                  "maneuver": "turn-right",
-                  "polyline": {
-                    "points": "pdwmEws~y[FODMBIBMDc@@S@OFm@JsADo@BW@W@GDQBIDOFSDIBEbAmAJONSNQJOHMDKBE@I@O?G?C?EAIEK"
-                  },
-                  "start_location": {
-                    "lat": -33.8748082,
-                    "lng": 151.2225249
-                  },
-                  "travel_mode": "WALKING"
-                },
-                {
-                  "distance": {
-                    "text": "0.4 km",
-                    "value": 358
-                  },
-                  "duration": {
-                    "text": "4 mins",
-                    "value": 239
-                  },
-                  "end_location": {
-                    "lat": -33.8763283,
-                    "lng": 151.2296874
-                  },
-                  "html_instructions": "Sharp <b>right</b> to stay on <b>Bayswater Rd</b>",
-                  "maneuver": "turn-sharp-right",
-                  "polyline": {
-                    "points": "`lwmEei_z[GABC@EJIDGDKFQ@OBS@W@Q@I?C@KBE@GME@c@?a@A]?MA]Aa@AO?E@SBGDIGmAA_@?Y@SB[Jy@LsA"
-                  },
-                  "start_location": {
-                    "lat": -33.8760123,
-                    "lng": 151.225951
-                  },
-                  "travel_mode": "WALKING"
-                },
-                {
-                  "distance": {
-                    "text": "4.9 km",
-                    "value": 4932
-                  },
-                  "duration": {
-                    "text": "1 hour 3 mins",
-                    "value": 3785
-                  },
-                  "end_location": {
-                    "lat": -33.8662481,
-                    "lng": 151.2718923
-                  },
-                  "html_instructions": "Continue onto <b>New South Head Rd</b>",
-                  "polyline": {
-                    "points": "`nwmEq``z[B_@D]BMBSBUJkAFi@BYL_BDi@BUBO@QBO@MBQBOBMHo@BQBQNgADO@GBMBIFKJUNUHMHMd@o@f@o@NSRQBEPOXY^_@BCHKJKBGDKHQDUBK@UPcBF_@@Qp@aG@E@SB_@BUBOBIBGBGBCDOJ[@M?E?E?CACAEAGIYEMIYWy@MYGKGIGKCIGOEQCOGc@COAQAEEc@C_@Gc@?GAKC[AS?Q?M?K?C@QDg@@S@MAK?ACQAIEIGQEICECEEEEGCCAAEEIGIGIIKIGGIIGGGIGGGKEGGQGMGQ[aAGMCOCIAIEWGa@QsAAQMUEWIQEEk@m@k@i@QQKMMQQSSW[_@Ya@GGQOECECOCKEMEWKQMKIKIGIc@k@]]OKOG[GI?WKWAU?c@?M@i@?Y?MAMAKCOIGCGIIGEIIMIMGQAAEOCGAEKk@EOCQGc@AAUuAUmAOcAMs@Me@Qm@EMEMGIEGOOSOAAKIc@[s@m@c@_@UQKIQMOIUMGCq@_@MIQOMMMSIUESEQAO?Q@Q@UBQBMDKHQz@aBL_@N_@@Gb@mABG\\eAFUfAeD^gAJ]FQRq@R}@H]@EX{A@CFi@NgAXiC@GDc@Hi@Fi@@K?G@G@c@@m@B_A@i@?K@e@@aC@i@?U@]DWBS@IDOBK@GBGDI@C@ABQF[Fa@BU@I?I?MAKAKAIESCIAGGQEOGOEIEMKQOWc@u@EKOa@EOW}@W}@Og@[mAIWEQEQCOKi@EQEUUgAESCIGOO_@MYq@sAO]iAaCy@_Bk@aAWc@IOIIgAqAIKo@u@EECCECGEICKCMAO?y@CK?G?EAMACAMCGCGAGCECGEECECEEEEGGOSEMEICKCKEWAIEW?EAEAEAAACACACCCAEEECAAAECECECCAC?A?E?G@E?KBYHUFKBC@KB]IGCGESM"
-                  },
-                  "start_location": {
-                    "lat": -33.8763283,
-                    "lng": 151.2296874
-                  },
-                  "travel_mode": "WALKING"
-                },
-                {
-                  "distance": {
-                    "text": "0.3 km",
-                    "value": 304
+                    "text": "0.2 km",
+                    "value": 230
                   },
                   "duration": {
                     "text": "3 mins",
-                    "value": 209
+                    "value": 194
                   },
                   "end_location": {
-                    "lat": -33.8639737,
-                    "lng": 151.2705705
+                    "lat": -33.8421509,
+                    "lng": 151.2100519
                   },
-                  "html_instructions": "Turn <b>left</b> onto <b>Tivoli Ave</b>",
-                  "maneuver": "turn-left",
+                  "html_instructions": "At the roundabout, take the <b>2nd</b> exit onto the <b>Pacific Hwy</b> ramp to <b>N Sydney</b>",
+                  "maneuver": "roundabout-left",
                   "polyline": {
-                    "points": "`oumEihhz[QFE?A@G?UEWCIAC?E?E@C?A@EBCBCBC@EHEHMTc@dAGNCFCDCBEFi@f@GFIFGFIDMFG@KDG@I@M@oAJMC?E"
+                    "points": "zaqmEyh|y[KGCIBW?E?EAC?AAAACECECCCCAG@}@VODQDGBGBOHQJMHA@IHIFON[^ILEDIDCB"
                   },
                   "start_location": {
-                    "lat": -33.8662481,
-                    "lng": 151.2718923
+                    "lat": -33.8436638,
+                    "lng": 151.2105252
                   },
                   "travel_mode": "WALKING"
                 },
                 {
                   "distance": {
-                    "text": "48 m",
-                    "value": 48
+                    "text": "0.2 km",
+                    "value": 166
+                  },
+                  "duration": {
+                    "text": "3 mins",
+                    "value": 155
+                  },
+                  "end_location": {
+                    "lat": -33.8410601,
+                    "lng": 151.2088699
+                  },
+                  "html_instructions": "Merge onto <b>Pacific Hwy</b>",
+                  "maneuver": "merge",
+                  "polyline": {
+                    "points": "lxpmEye|y[c@d@IJe@f@CDm@r@EFMEAF?@?@?@YZIJY^"
+                  },
+                  "start_location": {
+                    "lat": -33.8421509,
+                    "lng": 151.2100519
+                  },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": {
+                    "text": "56 m",
+                    "value": 56
                   },
                   "duration": {
                     "text": "1 min",
-                    "value": 57
+                    "value": 44
                   },
                   "end_location": {
-                    "lat": -33.8640504,
-                    "lng": 151.2710834
+                    "lat": -33.8407101,
+                    "lng": 151.2084515
                   },
-                  "html_instructions": "Turn <b>right</b> onto <b>Bayview Hill Rd</b>",
+                  "html_instructions": "Turn <b>right</b> onto <b>Blue St</b>",
                   "maneuver": "turn-right",
                   "polyline": {
-                    "points": "x`umEa`hz[NeB"
+                    "points": "rqpmEm~{y[EB{@|@J@ON"
                   },
                   "start_location": {
-                    "lat": -33.8639737,
-                    "lng": 151.2705705
+                    "lat": -33.8410601,
+                    "lng": 151.2088699
+                  },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": {
+                    "text": "2.5 km",
+                    "value": 2486
+                  },
+                  "duration": {
+                    "text": "32 mins",
+                    "value": 1949
+                  },
+                  "end_location": {
+                    "lat": -33.8235299,
+                    "lng": 151.1938995
+                  },
+                  "html_instructions": "Slight <b>left</b> onto <b>Pacific Hwy</b>",
+                  "maneuver": "turn-slight-left",
+                  "polyline": {
+                    "points": "lopmEy{{y[aAx@YTs@l@q@j@KHaCtBKHMJUNyA`A]R]RMFIB[LMBODC@MDSFq@P_Bb@MDy@TgAZSFE@MDqCx@MDgAZOBWDw@JMBSDm@JSBSDKBq@VE@MFyCfAMDSHQHMFMFIFw@n@a@Zs@h@EDQNKF{AlAMF_@VuAz@]TMHYPSLu@f@MFu@d@gBjAe@XA@MJKFKHUPUTMLUT{@v@YVYTIHi@f@c@^YVa@^ONKJUPu@t@CBkAdAKHIFKJKFMFCB_Ap@e@^SNa@^c@\\i@f@Yj@ELKTAFEN]`BGREVEVAR?N?P@NLhAFp@DZBTBZBTBNJl@BHQD"
+                  },
+                  "start_location": {
+                    "lat": -33.8407101,
+                    "lng": 151.2084515
+                  },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": {
+                    "text": "1.1 km",
+                    "value": 1113
+                  },
+                  "duration": {
+                    "text": "14 mins",
+                    "value": 843
+                  },
+                  "end_location": {
+                    "lat": -33.8144733,
+                    "lng": 151.1895991
+                  },
+                  "html_instructions": "Turn <b>right</b> onto <b>Herbert St</b>",
+                  "maneuver": "turn-right",
+                  "polyline": {
+                    "points": "`dmmE{`yy[EBOFy@ZYLWFUFOBE@]DM@YBUB_ALmBRM@eBPu@HMBe@Dw@He@DSBUBWBO@e@FUBw@H_@DG@E@E@E@GBE@CBKFSNk@^}CpBc@XIFo@b@EB[RKHa@Vu@f@GDGDEFGDIJQR]b@YZILOLUP]RKH_BbASL"
+                  },
+                  "start_location": {
+                    "lat": -33.8235299,
+                    "lng": 151.1938995
+                  },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": {
+                    "text": "1.4 km",
+                    "value": 1398
+                  },
+                  "duration": {
+                    "text": "19 mins",
+                    "value": 1147
+                  },
+                  "end_location": {
+                    "lat": -33.8048018,
+                    "lng": 151.1807352
+                  },
+                  "html_instructions": "Continue onto <b>Hampden Rd</b><div style=\"font-size:0.9em\">Go through 2 roundabouts</div>",
+                  "polyline": {
+                    "points": "lkkmE_fxy[GDEBGDKDKFEBGBSHSHSFUJQFSFMDMDKD[L{@h@?@?@?@?@?@A??@?@A??@A??@O@AAOJeAp@}AdA]T_Al@q@b@MFw@h@]R}@n@QJKHKHYRIHEDGFEFINGNKVc@bASd@GNIRS`@[n@o@jAILIJILUZW^KPe@n@m@x@IJWZEFIJILUZKPIHA??@?@@H@L@J?HEHCBCDGHOJ}@n@y@j@YPe@\\KHm@\\s@^k@ZoAn@}@f@[P"
+                  },
+                  "start_location": {
+                    "lat": -33.8144733,
+                    "lng": 151.1895991
+                  },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": {
+                    "text": "0.1 km",
+                    "value": 142
+                  },
+                  "duration": {
+                    "text": "2 mins",
+                    "value": 101
+                  },
+                  "end_location": {
+                    "lat": -33.8053242,
+                    "lng": 151.1794574
+                  },
+                  "html_instructions": "Turn <b>left</b> onto <b>Mowbray Rd</b>",
+                  "maneuver": "turn-left",
+                  "polyline": {
+                    "points": "~nimEsnvy[z@|Bd@rATh@OB"
+                  },
+                  "start_location": {
+                    "lat": -33.8048018,
+                    "lng": 151.1807352
+                  },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": {
+                    "text": "10.0 km",
+                    "value": 10045
+                  },
+                  "duration": {
+                    "text": "2 hours 9 mins",
+                    "value": 7757
+                  },
+                  "end_location": {
+                    "lat": -33.7333736,
+                    "lng": 151.1312934
+                  },
+                  "html_instructions": "Turn <b>right</b> onto <b>Pacific Hwy</b>/<wbr/><b>A1</b>",
+                  "maneuver": "turn-right",
+                  "polyline": {
+                    "points": "frimEsfvy[OBU@{ADW@]@Q?o@@k@Ck@IOAAA_@CSCi@CuAMMA{@Iq@EMAgACs@AM?[@c@BS@a@B_@Ha@Hi@PSFA?MDE@i@TmAd@A?KFSJSHUFSHKDq@VMDMB_@Je@L[HYFMBMBQD{A\\SBMB[Du@H]AWAUEMEOGaBk@OEGAMEc@OSKu@g@w@k@GEIGUQkBuAWQSKKG]Ky@W_@K_@KMEYIeAMOCq@KsAQoAKMCE?QAm@?s@@{@Bs@Dg@H[FODODUFIBMDWJ_@Pa@V{@l@k@`@yA`AKFOHOHWJMFu@Xs@Zu@ZQDo@TUHKJc@PSJ[TYRCDYTo@h@SPMLA@MNaC`DOTUb@e@~@IPKPMXKVOb@CLELETGZEZAPANCb@OzBMrAGl@G\\UzAGTENGREHEHMTKNGFIHIJSPONY\\]b@q@z@IJY`@i@v@m@z@SRKJaAz@SPYVSLEDKFG@C@E@IBI@G@G@M@k@C]Ac@Ec@Aa@AS@O?I?QBMBQDODYJMDkAj@w@ZIDG@E@G@K@M@I?I?iAEe@CgBMQAOAUA[@IBQD[L]JWHUJQLCBOHQJ[V[VaA|@KJMRKNIPGRIXAJShACNUvA[dBKj@GVALCJMn@Mr@QfAUfAOz@EXCDAHEJCHCLGNSb@Uh@oAtCGNk@pASb@EJEHSXCDEFEDIHIDIDOHi@Xc@TKFa@PKFCBA?A@IDKBE@QFE@C?C?E?E?E@I@IBKBKBOFGBKDKHEDGDEDEFGFEF{ArBY^a@l@]f@_@f@y@dAUVc@h@KJKNMNw@~@WZKLIFIFMHUNQHOFGBI@UDIBO@M?mABiAB[@S?K?OAG?OAK?O?I@K@SBg@HMDKBIBMDIDKFCBKJA?MNGFIJ]d@c@j@SXORMNMLMJEDQJSJMFKBKBMDUFa@Fu@D[@O?a@@K@M@W@O@O@K@Q@a@BWBa@HGBKBKDKDSLOHIFuAt@e@Xe@TSJg@Pm@T_@LMDa@LYJ_@LC@SFMDc@Nw@XUFc@LQBGB[D]BMBWBWBMBMBw@L{@NG@UFE@WLUHSHIBIBKBI@EBYJWJQHe@Ta@PKFMHQFULGBI@YNKDQJOJQLEBCBEFGFCDCBEFEJGJQ`@]v@KXMXWl@Q`@CFILIPSd@KXKTKRADCDO`@CFSr@]|@KXQ\\GNKPOVEFGFQVST_@b@GFIFMLCBEDGDKFOHMJ_@PQFi@TE@MDWLIDSLULQNOLEDWV_@b@WXGFMLKHGFQLQLOHWJIBKBQDyALG@o@FUBg@FQ@UDQBQDMDIBOHKFWRQNYXSTON[b@OTGJCFCDKXABIXCJCJCR?FCXE^C^EPCJAFEJIPO\\Wh@MTGNIPIRWj@GNMVEHEHEHEHEFCBCDEFOJSJUJGDMFMFE@GDMHC@CBGDGFKLGF[ZUVo@p@KLEDIFIJQLYRMHWP_Al@WPa@XOJu@j@IJq@x@INeAxAIJaCfDcAtAi@j@SRSPKHkB`Ba@\\e@b@a@f@EBo@v@a@f@STKNoAfB]b@EBq@|@MNMNONMHSL]PIDGB]N_A`@MDq@\\aA`@UJg@Xy@d@m@\\m@\\kAp@OJKHIFKHQPKNA@"
+                  },
+                  "start_location": {
+                    "lat": -33.8053242,
+                    "lng": 151.1794574
                   },
                   "travel_mode": "WALKING"
                 }
@@ -694,9 +1171,9 @@
             }
           ],
           "overview_polyline": {
-            "points": "xgvmEqr{y[bKIfBEr@@H_AP}CHuELwCLs@b@_F^sETsBPmBxAcPVsBHq@?[TmCXwCPwBRwBCOBk@B[Be@TiBP_Ah@gBDKEAE?KE[Ui@k@SSHKL]FWFw@ZaELiAVw@bBwBj@{@DO@WG_@GABCLOJSHa@HgAF]ME@c@A_AE}A@YHQImB@m@`@iEPuAt@qIb@aDZmBf@aA`B{Bx@{@fAiANSN]Ha@RyB|@yHDs@Fe@FQFKPk@@SCS[iAWy@MYOUKUMa@QuA[qD?o@J{AGi@Wk@SW[Wg@e@_@e@]y@k@iBa@wCAQMUEWIQq@s@}@{@_AkAu@aAYWg@Qe@Q]WSSaAiA_@Se@GWKWAy@?w@@g@AYEWMa@i@Yq@WiAc@mCe@qC[yAW{@MWk@i@gCsBcAs@}A{@_@]Wi@Ke@Aa@Bg@F_@N]hAaCx@}BlCiIz@_Df@cClAgKL}FD_FPeANe@Ns@LkAEo@Sw@Yw@eAkBeAmD{@_D[}Ae@{BwA}CyA_DeBaDa@s@qA{AcAkAc@QcBE_@Ee@MYQc@g@So@UqAIQQMSIU@gAXODe@M[SWFw@GY?OHSXy@jBQXcA~@k@ToBPMC?ENeB"
+            "points": "tzvmE{d|y[a@ByF]mHa@{AMwCUg@EkDKuCQaDUm@IeAkAuAo@q@Yq@Uo@|Ay@fAWf@INCXk@F}@AwG_@YCMIgBMMNCRi@C]CAFeAGkAIySaBaCIgCBqBDwUdAyK@AGCGEAGBg@d@G@BE@Q?YM?]WSWIkAKsAM@}CT}@HG@CBGBMEc@Da@F_C`@yBNUDm@LiAJuCzAOLOH]Du@?Q?KGCIBW?KAEOMGEeAXq@Rq@`@SPk@n@ORMHwA~As@z@MEAF?B?@}@fAaA`AJ@ON{AnAeBxAgDtCkDxBaA\\oGfBgJjCqBZaBX_FhBaA`@qBzAwAfAiBtAuBrAyA~@cHpEkEzDeEvDqChCo@b@}BdBeA|@i@f@Yj@Qb@GVe@tBKn@Ab@@`@^lDFp@N|@BHQDUJsAh@m@NaALo@FmD`@wD`@{Fj@uBTYHaHpEeEpCi@l@qAzA_DrBi@\\wB|@aAZg@R{@h@?@?@?BCDA@OBAAOJcDvB}AbA_Aj@uA|@gBnAq@j@c@~@iAlCiBjDkD|E_BtB?BDl@U\\aDxBq@f@aB|@uEdC`BpETh@OBe@DsBFo@@{AA}AQaDWmBOuAEaAA_ADu@DaARmA^_C|@iAd@_Bl@wD|@oB`@i@Hu@H]Am@GoC_AmAc@_CaByCyB_@SwAc@gBg@{Eo@uBQaB@oBHcAP_@JeA\\aAh@gBnAeC|AoChAmC`Ao@\\o@`@gBxAq@p@qCvD{@bBo@tA_@tAQxAS~CU`C]xBMd@a@|@g@l@{AbB_C`Dm@z@SRmAfAgA|@]Lc@Hy@AaAGeACc@@{@Li@PyAp@oAd@k@DaFWa@Cq@?uAb@m@TUPyAdAmAhAYb@Qd@Kd@iAvG}ApI[dBUr@mE~Jc@l@m@^oCvAm@RS@_@Fo@Re@ZY\\uDhFyAlBy@`A}AjBw@x@eAj@q@NuDHkA?s@AqAPq@RULONa@b@eB~Bo@n@e@VYJqAXqAFq@@aAFoAHmAT{@b@kDlBiC`AsDlAmA`@u@PoAPkANqCf@gAb@i@LiAd@aBx@y@ZgAl@a@\\UXaCtFqAvCk@bBcAdCi@x@mAxAa@^q@b@aBp@cAf@g@\\URwA|As@l@a@Va@N]HaBN_CTg@H_@JYLc@ZoAnAw@lA[|@Kr@Ix@Ip@Up@qBnE_@t@SZURi@Vi@V]Tc@b@mBrBk@f@_C|A_CbB{@dAoAhBkCrDcAtAi@j@g@d@wBjBgA`Ag@j@qBdCmBjCw@`A[^]XcAh@}CtAwAl@aB~@wDxBs@l@MP"
           },
-          "summary": "New South Head Rd",
+          "summary": "Pacific Hwy/A1",
           "warnings": [
             "Walking directions are in beta. Use caution \u2013 This route may be missing sidewalks or pedestrian paths."
           ],
@@ -709,14 +1186,14 @@
       "geocoded_waypoints": [
         {
           "geocoder_status": "OK",
-          "place_id": "ChIJt1JtIT-uEmsRC0b2e2VCR6o",
+          "place_id": "ChIJU2s2Gz6uEmsRIuwzjuh3Qa0",
           "types": [
             "route"
           ]
         },
         {
           "geocoder_status": "OK",
-          "place_id": "ChIJyyG90lKsEmsRMqOo92JTvAI",
+          "place_id": "EiJQYWNpZmljIEh3eSwgU3lkbmV5IE5TVywgQXVzdHJhbGlhIi4qLAoUChIJie3QqpeQnmsRu6eqHWtP-YoSFAoSCT90mvM4mBJrEVCoMhZofQED",
           "types": [
             "route"
           ]
@@ -726,247 +1203,436 @@
         {
           "bounds": {
             "northeast": {
-              "lat": -33.8640859,
-              "lng": 151.2731875
+              "lat": -33.7331193,
+              "lng": 151.2182067
             },
             "southwest": {
-              "lat": -33.8792855,
-              "lng": 151.2025219
+              "lat": -33.8744627,
+              "lng": 151.1124969
             }
           },
           "copyrights": "Map data \u00a92020 Google",
           "legs": [
             {
               "distance": {
-                "text": "9.2 km",
-                "value": 9155
+                "text": "24.8 km",
+                "value": 24829
               },
               "duration": {
-                "text": "19 mins",
-                "value": 1125
+                "text": "33 mins",
+                "value": 1962
               },
-              "end_address": "Bayview Hill Rd, Sydney NSW, Australia",
+              "end_address": "Pacific Hwy, Sydney NSW, Australia",
               "end_location": {
-                "lat": -33.8640859,
-                "lng": 151.2710761
+                "lat": -33.7334086,
+                "lng": 151.1312594
               },
-              "start_address": "George St, Sydney NSW, Australia",
+              "start_address": "Park St, Sydney NSW 2000, Australia",
               "start_location": {
-                "lat": -33.8707672,
-                "lng": 151.2069746
+                "lat": -33.8732279,
+                "lng": 151.2099453
               },
               "steps": [
                 {
                   "distance": {
-                    "text": "0.3 km",
-                    "value": 290
+                    "text": "0.2 km",
+                    "value": 250
                   },
                   "duration": {
                     "text": "1 min",
-                    "value": 67
+                    "value": 70
                   },
                   "end_location": {
-                    "lat": -33.8709021,
-                    "lng": 151.2038505
+                    "lat": -33.8736828,
+                    "lng": 151.2125899
                   },
-                  "html_instructions": "Head <b>west</b> on <b>Market St</b> toward <b>York St</b>",
+                  "html_instructions": "Head <b>east</b> on <b>Park St</b>",
                   "polyline": {
-                    "points": "hkvmEqr{y[Bt@FnA?TFvABl@Fn@CtAAz@@^?b@?FA~@"
+                    "points": "tzvmEee|y[@UJ_@Fi@P{B@OFk@Dq@RyB@GD_@Dc@"
                   },
                   "start_location": {
-                    "lat": -33.8707672,
-                    "lng": 151.2069746
+                    "lat": -33.8732279,
+                    "lng": 151.2099453
                   },
                   "travel_mode": "DRIVING"
                 },
                 {
                   "distance": {
-                    "text": "0.6 km",
-                    "value": 584
+                    "text": "0.4 km",
+                    "value": 437
                   },
                   "duration": {
-                    "text": "3 mins",
-                    "value": 188
+                    "text": "2 mins",
+                    "value": 90
                   },
                   "end_location": {
-                    "lat": -33.8761282,
-                    "lng": 151.2045089
+                    "lat": -33.8744627,
+                    "lng": 151.2172227
                   },
-                  "html_instructions": "Turn <b>left</b> onto <b>Sussex St</b>",
+                  "html_instructions": "Continue onto <b>William St</b>",
+                  "polyline": {
+                    "points": "n}vmEuu|y[Fa@Fm@?AD_@BYFq@De@B[PgBTuCFq@?C@I\\kDJy@@EFi@@MFe@?U"
+                  },
+                  "start_location": {
+                    "lat": -33.8736828,
+                    "lng": 151.2125899
+                  },
+                  "travel_mode": "DRIVING"
+                },
+                {
+                  "distance": {
+                    "text": "0.5 km",
+                    "value": 480
+                  },
+                  "duration": {
+                    "text": "1 min",
+                    "value": 77
+                  },
+                  "end_location": {
+                    "lat": -33.870247,
+                    "lng": 151.2179256
+                  },
+                  "html_instructions": "Turn <b>left</b> onto <b>Palmer St</b>",
                   "maneuver": "turn-left",
                   "polyline": {
-                    "points": "blvmEa_{y[h@Gt@GrDUp@Ev@EXANARA\\AZ?d@EbBQTAx@GhDS`@CxBO"
+                    "points": "jbwmEsr}y[QCE?O?E?IA_AKKAk@I_@Ey@K{@KICGAm@K_AKKC_CYeC_@[EQEGAOAC?G?C@C@EBEBCDGF"
                   },
                   "start_location": {
-                    "lat": -33.8709021,
-                    "lng": 151.2038505
-                  },
-                  "travel_mode": "DRIVING"
-                },
-                {
-                  "distance": {
-                    "text": "91 m",
-                    "value": 91
-                  },
-                  "duration": {
-                    "text": "1 min",
-                    "value": 47
-                  },
-                  "end_location": {
-                    "lat": -33.8759476,
-                    "lng": 151.2035474
-                  },
-                  "html_instructions": "Turn <b>right</b> onto <b>Liverpool St</b>",
-                  "maneuver": "turn-right",
-                  "polyline": {
-                    "points": "xlwmEec{y[QpAE\\KnA"
-                  },
-                  "start_location": {
-                    "lat": -33.8761282,
-                    "lng": 151.2045089
-                  },
-                  "travel_mode": "DRIVING"
-                },
-                {
-                  "distance": {
-                    "text": "2.6 km",
-                    "value": 2631
-                  },
-                  "duration": {
-                    "text": "3 mins",
-                    "value": 164
-                  },
-                  "end_location": {
-                    "lat": -33.8762982,
-                    "lng": 151.2275296
-                  },
-                  "html_instructions": "Sharp <b>right</b> onto <b>Cross City Tunnel</b><div style=\"font-size:0.9em\">Toll road</div>",
-                  "maneuver": "turn-sharp-right",
-                  "polyline": {
-                    "points": "tkwmEe}zy[ETGEICKCOEWEYCG?I?A?E?SBG@E@MDSFIDOHMHOJMLEBGHKLGLADWn@GRCDCBGFA?CBA?C@C?C?E?ECGCAACCCGAEAG?I?M@O?CBWDm@@O@U@S@MF_@HuABi@B_@@KNsCBi@F}AJqC?K?AFmABg@Bk@?A@g@?E@K?W?i@?]?[A]A[?SAGA[C[C]CUCYCWCUGc@G]CQCOEUCMCMCMAO[oCCa@AWAEA_@CY?E?AAW?GAW?K?OAA?Y?C?a@?]?Q?M?[@M?S?I@U@]Bi@FyAPyBBQ?GBUFo@RyBDk@ViCB[Fs@@CJmA@QBSB[R{D@Y@?@_@@K@QBW@IB_@?AD[Dc@D[@IDUF]D]F[F[Jk@@Cr@_AHM@C@A@??A@A@Er@{BRq@FWD]BSHiAFk@Di@Di@Dk@H{@BWDe@Du@Bk@@]?Q@Y@c@?G@_A@cA@m@?e@@iA"
-                  },
-                  "start_location": {
-                    "lat": -33.8759476,
-                    "lng": 151.2035474
+                    "lat": -33.8744627,
+                    "lng": 151.2172227
                   },
                   "travel_mode": "DRIVING"
                 },
                 {
                   "distance": {
                     "text": "0.2 km",
-                    "value": 200
+                    "value": 167
+                  },
+                  "duration": {
+                    "text": "1 min",
+                    "value": 27
+                  },
+                  "end_location": {
+                    "lat": -33.8688109,
+                    "lng": 151.2180567
+                  },
+                  "html_instructions": "Turn <b>right</b> onto <b>Sir John Young Cres</b>",
+                  "maneuver": "turn-right",
+                  "polyline": {
+                    "points": "`hvmEaw}y[MIGEIEMGOESGMCUEE?MAM?W?Y@QBM@KBGFa@H"
+                  },
+                  "start_location": {
+                    "lat": -33.870247,
+                    "lng": 151.2179256
+                  },
+                  "travel_mode": "DRIVING"
+                },
+                {
+                  "distance": {
+                    "text": "4.4 km",
+                    "value": 4431
+                  },
+                  "duration": {
+                    "text": "4 mins",
+                    "value": 237
+                  },
+                  "end_location": {
+                    "lat": -33.8318538,
+                    "lng": 151.2124841
+                  },
+                  "html_instructions": "Take the ramp onto <b>M1</b>",
+                  "polyline": {
+                    "points": "`_vmE{w}y[YHYFODA?E@[Le@Rg@XONONOLQTKNMTOVKRCHEJEJGNADEPIXGZKf@On@Kd@?@Mf@GTK^K\\IRANIRQ`@KXO\\]n@GH]ZSTON_@b@A@URIFA@MHWLEBSFGBA?SFUDSBI@U@S@UAI?KAIAIAICUCSGICCAOEICICMEOGIESGQIg@UME[MMCQEIAOCSCQAWCW?SAM?G?M@s@?O?k@?]?G?M?O?e@?s@?k@?gD?i@?K?S?W@g@BqADk@Bm@B}@Bs@@U@i@@S?k@@sBF_ABi@@gBDA?a@@c@@mEJiBDo@BcA@uDJgHHS@_A@m@@Q@s@DUBSBKBI@K@G@IBUDSFSD{@Vu@RE@UFc@LKDA?g@NSDg@N]JIBa@J[JE@MD{@TSFGBgAZSFeBd@g@Ng@Na@JA@k@PwA`@MBWHw@Tg@NUFu@TC?q@RIBe@LC?SFIBSDG@A@I@A?SDG@KBIBSB_@FC@i@Fc@D[Be@BA?Y@G?[?]?WAy@CWCsAIc@Ek@Gc@Ia@EKA]CaAKcFe@a@EqAMk@I_@Gg@GIAs@MOCq@OWE[Iw@Oe@MaAYqAg@o@WSKMG]Oe@Ui@[e@UYOk@Y"
+                  },
+                  "start_location": {
+                    "lat": -33.8688109,
+                    "lng": 151.2180567
+                  },
+                  "travel_mode": "DRIVING"
+                },
+                {
+                  "distance": {
+                    "text": "3.4 km",
+                    "value": 3381
+                  },
+                  "duration": {
+                    "text": "3 mins",
+                    "value": 165
+                  },
+                  "end_location": {
+                    "lat": -33.8132508,
+                    "lng": 151.191366
+                  },
+                  "html_instructions": "Keep <b>left</b> to stay on <b>M1</b>",
+                  "maneuver": "keep-left",
+                  "polyline": {
+                    "points": "`xnmE_u|y[c@[UMQKmAe@e@Sk@QYI[Iw@SQC[G[E[Ee@Es@EKAe@A_A@e@?G?Q@g@DcALQBa@Fk@Nq@P]JKDWJ{@`@YN]Ra@VIFMJSP[Xa@`@YZe@j@g@x@WZg@lAOf@Ol@Mh@Md@Kj@G^GZk@rDAHWrAOn@Sx@Ut@[r@KTMZKPMTUf@k@~@[b@ORY`@SR_@`@_@^QNiA~@CFIHWT]XYT]XCB[VUPIBC?CBC@EBq@h@u@l@cAx@o@d@_@Z[TMJOLe@^_Ap@y@d@UNa@RsAv@o@\\s@`@OHOJc@Ve@X_Ah@aAj@k@Xk@Xg@Xu@`@IDo@^i@XQL]VWRc@b@a@`@Y\\KLIJg@t@Yf@Q\\KTKVYv@[dAOn@Kn@G`@CPKhAEt@AVAX?r@@j@@`@Dv@Hx@Hn@Fp@Lt@Hb@Lp@Nn@h@xBHZTdALl@FXFX"
+                  },
+                  "start_location": {
+                    "lat": -33.8318538,
+                    "lng": 151.2124841
+                  },
+                  "travel_mode": "DRIVING"
+                },
+                {
+                  "distance": {
+                    "text": "5.1 km",
+                    "value": 5110
+                  },
+                  "duration": {
+                    "text": "4 mins",
+                    "value": 252
+                  },
+                  "end_location": {
+                    "lat": -33.7993835,
+                    "lng": 151.1408
+                  },
+                  "html_instructions": "Keep <b>right</b> to continue on <b>M2</b><div style=\"font-size:0.9em\">Toll road</div>",
+                  "maneuver": "keep-right",
+                  "polyline": {
+                    "points": "xckmEaqxy[Ln@BRDVDXDTDVDZBVHn@Fp@Fp@LfBBh@Br@@VBt@@n@@r@?n@@Z?n@?P?\\Ap@Cp@Ap@Cp@Er@Cd@Eh@CREp@MjAOhAKn@Kp@EPIh@CLObA]rBs@jE]vBGd@Eb@Eb@Gd@ATCNCb@Ed@C\\?@C^C^A^A^?DAX?HATA^?^?r@?@?@@x@?V@b@Bx@Bh@Bp@B\\Dh@F|@@P?@?B@H?@Fz@@^B^@Z@F?J@\\@P@X?V@n@@z@?h@?P?VAb@?F?BAZ?PCz@Ez@Ex@?JGr@?@ARAJEb@CPANABE`@E`@EXAHG^?DIb@CPEVKf@WpAUnAKh@S`AQ|@SfAKl@Ib@SpASrAQfAKx@ABGd@Gb@MhAOfACZGf@?@Gd@Gp@_@dDCPCVShBE\\UtBCXIx@E\\Gh@Gb@Gb@AJIh@If@CLGZKl@Kh@Mf@Kf@Kb@CJGTENELK`@M`@Mb@M`@M^CJITCDCHGPO^O`@MX?@O^Q^O\\KRO\\Ub@CFQXIPIPSZAD]h@OVW`@?@U^W^S\\CBi@|@AB_@l@U`@MPEHADQZA@KR?@CB?@[l@KVOX[t@Sh@Wl@ENO^Qh@?@Up@s@`CM`@K`@IVKZCJOb@?@Qf@[x@KZO^]v@Q^GLEJSb@OVCDQ\\Ub@U`@SZW`@W^SZY^W^CBUX]`@EDSVY\\e@h@Y\\k@p@ABUZa@h@W\\ORSZ}@xAoA~BIR}@tBg@zAeAhDe@xAQf@"
+                  },
+                  "start_location": {
+                    "lat": -33.8132508,
+                    "lng": 151.191366
+                  },
+                  "travel_mode": "DRIVING"
+                },
+                {
+                  "distance": {
+                    "text": "1.5 km",
+                    "value": 1544
+                  },
+                  "duration": {
+                    "text": "2 mins",
+                    "value": 144
+                  },
+                  "end_location": {
+                    "lat": -33.7899754,
+                    "lng": 151.1287163
+                  },
+                  "html_instructions": "Exit onto <b>Epping Rd</b> toward <b>A3</b>/<wbr/><b>Nth Ryde</b>",
+                  "maneuver": "ramp-left",
+                  "polyline": {
+                    "points": "bmhmE_uny[BF@D?BADADCLM^KTCJQb@O^O\\Wh@QZS`@QVU^OTKXGHUXAB[^YZQVWZQNIHUTKLMLIHUP[VKDKH_@VQHMLQLUPYX]^o@v@cB`CY\\KLGHKJIJkA`Bg@r@KRILKRs@bAw@fAA@q@`Ae@l@m@z@W^W\\KNSXKLKL_@`@GJKLQXIJkBjC]h@Y`@OVU\\m@x@g@p@QT]f@_@f@IJa@h@MR"
+                  },
+                  "start_location": {
+                    "lat": -33.7993835,
+                    "lng": 151.1408
+                  },
+                  "travel_mode": "DRIVING"
+                },
+                {
+                  "distance": {
+                    "text": "0.3 km",
+                    "value": 324
+                  },
+                  "duration": {
+                    "text": "1 min",
+                    "value": 39
+                  },
+                  "end_location": {
+                    "lat": -33.7880409,
+                    "lng": 151.1261038
+                  },
+                  "html_instructions": "Slight <b>left</b>",
+                  "maneuver": "turn-slight-left",
+                  "polyline": {
+                    "points": "jrfmEoily[EPEHINEFIL_@j@c@p@w@fACBSXW\\g@r@KPW\\GH[b@QTSZMPMP"
+                  },
+                  "start_location": {
+                    "lat": -33.7899754,
+                    "lng": 151.1287163
+                  },
+                  "travel_mode": "DRIVING"
+                },
+                {
+                  "distance": {
+                    "text": "45 m",
+                    "value": 45
+                  },
+                  "duration": {
+                    "text": "1 min",
+                    "value": 18
+                  },
+                  "end_location": {
+                    "lat": -33.787759,
+                    "lng": 151.1257586
+                  },
+                  "html_instructions": "Keep <b>right</b> to continue toward <b>Lane Cove Rd</b>/<wbr/><b>A3</b>",
+                  "maneuver": "keep-right",
+                  "polyline": {
+                    "points": "fffmEcyky[IJGFW\\KNA@"
+                  },
+                  "start_location": {
+                    "lat": -33.7880409,
+                    "lng": 151.1261038
+                  },
+                  "travel_mode": "DRIVING"
+                },
+                {
+                  "distance": {
+                    "text": "2.4 km",
+                    "value": 2361
+                  },
+                  "duration": {
+                    "text": "4 mins",
+                    "value": 245
+                  },
+                  "end_location": {
+                    "lat": -33.7695852,
+                    "lng": 151.1361373
+                  },
+                  "html_instructions": "Turn <b>right</b> onto <b>Lane Cove Rd</b>/<wbr/><b>A3</b><div style=\"font-size:0.9em\">Continue to follow A3</div>",
+                  "maneuver": "turn-right",
+                  "polyline": {
+                    "points": "ndfmE_wky[SXq@k@WWq@y@c@g@KMw@}@]i@]a@]a@GEGIW[A?UWSUOQEEEEECGGKMIKg@g@OKMK]][Yc@c@QQOMOOSUAAWWm@s@KKY[UUAAQSGGGGKKIIKMGGe@g@k@m@{@_AGGu@u@?ASQSSu@w@aAcAOQEEEEEEUWOMe@i@UUSWSSQQMOMOEESS]]IKEEKIGE[]KMWWSSSQCCUOEEOK[S[Uc@QWMOEg@Qa@MUEg@K]GIAGAGAg@CYAUAK?M?Q?g@@[@S?gBBaABg@@G?G?G?E?G?G@E?o@?K?M?[@M@K?G?[@cDDo@D[As@E]Cc@Ek@KcB]IA{Be@k@M_@IICeAUq@OMCs@M"
+                  },
+                  "start_location": {
+                    "lat": -33.787759,
+                    "lng": 151.1257586
+                  },
+                  "travel_mode": "DRIVING"
+                },
+                {
+                  "distance": {
+                    "text": "1.1 km",
+                    "value": 1134
+                  },
+                  "duration": {
+                    "text": "2 mins",
+                    "value": 92
+                  },
+                  "end_location": {
+                    "lat": -33.7620905,
+                    "lng": 151.1280627
+                  },
+                  "html_instructions": "Slight <b>left</b> onto <b>Yanko Rd</b>",
+                  "maneuver": "turn-slight-left",
+                  "polyline": {
+                    "points": "|rbmE{wmy[SFC?MAC?C?E@E?E@EDA?QJIDEBC?C?C?G?KDOF]LKDC@KDEBCBKHKJCBMHIJMNMLA@[`@_@f@uAfBa@f@MLMLEFIJ{@fAUZKPgAtAY\\{@fAa@f@IJq@z@ABa@j@mAxAOP[`@UX]d@ILgAtAYZaAtA[\\MNk@|@UZmAxAIJMLADCBABEDGFEHCD"
+                  },
+                  "start_location": {
+                    "lat": -33.7695852,
+                    "lng": 151.1361373
+                  },
+                  "travel_mode": "DRIVING"
+                },
+                {
+                  "distance": {
+                    "text": "0.5 km",
+                    "value": 499
+                  },
+                  "duration": {
+                    "text": "1 min",
+                    "value": 44
+                  },
+                  "end_location": {
+                    "lat": -33.7588711,
+                    "lng": 151.1243853
+                  },
+                  "html_instructions": "At the roundabout, take the <b>1st</b> exit and stay on <b>Yanko Rd</b>",
+                  "maneuver": "roundabout-left",
+                  "polyline": {
+                    "points": "`damEkely[?@?@?@A@?@A??@?@A??@A?A??@A?A?A?A?A?GFGJKNGDW\\m@t@{@fAiAvAm@x@c@h@ABqA`BwAjBQR_@f@Y\\GFIHGDG@E@E@G?"
+                  },
+                  "start_location": {
+                    "lat": -33.7620905,
+                    "lng": 151.1280627
+                  },
+                  "travel_mode": "DRIVING"
+                },
+                {
+                  "distance": {
+                    "text": "0.3 km",
+                    "value": 317
                   },
                   "duration": {
                     "text": "1 min",
                     "value": 25
                   },
                   "end_location": {
-                    "lat": -33.8763726,
-                    "lng": 151.2296779
+                    "lat": -33.7579323,
+                    "lng": 151.122887
                   },
-                  "html_instructions": "Merge onto <b>Bayswater Rd</b>",
-                  "maneuver": "merge",
+                  "html_instructions": "<b>Yanko Rd</b> turns slightly <b>right</b> and becomes <b>Doncaster Ave</b>",
                   "polyline": {
-                    "points": "zmwmEas_z[AMAWCaAEqAA]?W@SB[Hy@LsA"
+                    "points": "|o`mEmnky[G@I?EAICEAQIYMOGGCGACAEAKAKAG?I?G@I@IBKDKDQLKNKNEHCHEHCJAHAHAFAJ?J?D?F?F@F@J@HBJ@HBHBFBDFJV\\^`@LP"
                   },
                   "start_location": {
-                    "lat": -33.8762982,
-                    "lng": 151.2275296
+                    "lat": -33.7588711,
+                    "lng": 151.1243853
                   },
                   "travel_mode": "DRIVING"
                 },
                 {
                   "distance": {
-                    "text": "1.2 km",
-                    "value": 1187
+                    "text": "2.0 km",
+                    "value": 1971
                   },
                   "duration": {
-                    "text": "2 mins",
-                    "value": 147
+                    "text": "3 mins",
+                    "value": 155
                   },
                   "end_location": {
-                    "lat": -33.8785023,
-                    "lng": 151.2413471
+                    "lat": -33.7452151,
+                    "lng": 151.1124969
                   },
-                  "html_instructions": "Continue onto <b>New South Head Rd</b>",
+                  "html_instructions": "Continue onto <b>The Comenarra Pkwy</b>",
                   "polyline": {
-                    "points": "hnwmEo``z[B_@D]BMBSDUJiADk@BYN_BDi@B_@DU@OBMBS@OBMJy@DYNeADO@GBMBGDKLUR]LQd@o@f@o@NSRQBCPQXY\\_@LKLQBEFKBIBGH[@KBUPaBFk@r@mG@QBc@BSDO@I@EBC@CBADSJ]@K@C?EAE?EAC?GCIIYEKIYW{@OYGKEIGKCIEMEQEMGe@CSAQEc@E_@Ec@AGAKC[AQ?Q?M?I@M"
+                    "points": "`j`mEaeky[x@dAh@p@HLHNDFBHDNDN@DBP@T?RAT?JAJCNCFGTEJEHEHIJIJOJIFKDKDKBKBE@G@I?I@M?m@Bm@@W@S?K?M?OASCc@GGAe@Go@I[CMAK?O?M?I@O@MBGBA?KBMDMFGBGDSJKHUR[\\u@x@?@y@`Ai@p@GHY\\STEFYZ[^EFQLo@t@]`@SRKHKJQLMHCBQJSJOFC@IDSFQH]HUDC@SBQBSBUBK?I@_@?U@U@Q@S@I@G@GBG@ODC@MHOHGFIHEDCBCBQVCDIJORINMNa@l@a@j@]d@QTIJGFcAx@ULkBpA_@VKFGBEBGBGBG@GBK@GBE?I@YDWBQBG@M@EBGBC@KDGDGBIHIFKLQTaAlAY^EFe@l@KLe@l@WXi@r@"
                   },
                   "start_location": {
-                    "lat": -33.8763726,
-                    "lng": 151.2296779
+                    "lat": -33.7579323,
+                    "lng": 151.122887
                   },
                   "travel_mode": "DRIVING"
                 },
                 {
                   "distance": {
-                    "text": "3.3 km",
-                    "value": 3333
+                    "text": "2.1 km",
+                    "value": 2056
                   },
                   "duration": {
-                    "text": "6 mins",
-                    "value": 380
+                    "text": "4 mins",
+                    "value": 229
                   },
                   "end_location": {
-                    "lat": -33.8692567,
-                    "lng": 151.2702211
+                    "lat": -33.7335254,
+                    "lng": 151.1279826
                   },
-                  "html_instructions": "Continue straight to stay on <b>New South Head Rd</b>",
-                  "maneuver": "straight",
+                  "html_instructions": "Turn <b>right</b> onto <b>Kissing Point Rd</b>",
+                  "maneuver": "turn-right",
                   "polyline": {
-                    "points": "r{wmEmibz[Do@BU?I?E?E?EAGAGAGACAECGGSEICEEGCEGGCCCCECIIIGIGIIGGIIGGGIGGGICGIQEMGO[cACGCECKCIAKEUEa@QsACSMUCSEKCGIKk@m@k@i@QQKMMQQSSW[_@Ya@GGQQGCECOCKEA?MEUKQMMKECMOCCKOOS]]QMQG[GIAWIYAU?e@?K@i@?Y?MAMAGAGCMIGIGGGIMSCEGQAAEMCGAEKk@COEQGc@AAUuASmAQcAMs@Me@Qo@EKGOEIGIQQSOGEg@_@u@m@c@a@YUYSOIUMGCq@_@MIOMMMKQIUEQCQCS@YBUBO@MDKFO|@aBL_@N_@@Gb@mABG\\eAFWfAeD^eAJ_@FORs@R}@H]@GXyA@EHg@LiAXgC@GFc@Fk@Fi@@K@G?IBc@?m@B}@@i@?KBg@@aC?i@@U?]DWBOBKBOBI@EBGDI@C@CDQD]Fa@DU?K@IAMAMAKAKESAICIGQEMGOEKGMIQQWc@w@CISg@?AYcAW}@Mg@]mAIWEQCQEOOu@E[UgAEOAACMGOQ_@KYq@sAO_@kA_Cw@_Bk@cAWa@KQIImAyA"
+                    "points": "rz}lEcdiy[qB_AQKECCAcAg@EAECCCCCECECACEEMMkAyAw@aAMM_@e@[a@o@y@c@i@_@c@SU[[a@a@QOIKGKOYSe@[u@Ui@We@GKS[Ye@U]OWMWKYWs@}@eCSg@Uo@GOEMAAEOCMCMAMAM?SAWAaCAu@AI?MESE[M}@G_@GWIWIUSg@Si@o@yAqB_Fe@eAc@}@qAmCMWq@sAWg@EGIIOOg@]{@m@c@YQMSMIEECIAI?K?G?G@k@VOFIBE?E?E?CACAECCAKI{@q@CAy@q@KKGEGCGEWI_@SMGUMs@]OGGCEAGA"
                   },
                   "start_location": {
-                    "lat": -33.8785023,
-                    "lng": 151.2413471
+                    "lat": -33.7452151,
+                    "lng": 151.1124969
                   },
                   "travel_mode": "DRIVING"
                 },
                 {
                   "distance": {
-                    "text": "0.7 km",
-                    "value": 715
-                  },
-                  "duration": {
-                    "text": "1 min",
-                    "value": 76
-                  },
-                  "end_location": {
-                    "lat": -33.8643021,
-                    "lng": 151.272395
-                  },
-                  "html_instructions": "Continue straight to stay on <b>New South Head Rd</b>",
-                  "maneuver": "straight",
-                  "polyline": {
-                    "points": "zavmE{}gz[s@{@ECCCGEIEICKCMAQAy@AI?GAG?KACAMCGCEAGCECGCEEECECEEGGIMCECIEICKAKEWAIEUAGAEAEACACACCEACCEGEACCAECECECEAC?CAG?G@E@KB[HA?SFI@EBG@[GAACAGCUO[]IIEEOI]UWQIGEECCCECGAGCGAKAGAIAGCIAEAIEIKICCGGICCAEAC?CAE?E?G@C?A?E@GBE@GDEDGFCBCHKVKVEHGJCDEDEDCBCBGDEBEBC@A?EB"
-                  },
-                  "start_location": {
-                    "lat": -33.8692567,
-                    "lng": 151.2702211
-                  },
-                  "travel_mode": "DRIVING"
-                },
-                {
-                  "distance": {
-                    "text": "0.1 km",
-                    "value": 124
+                    "text": "0.3 km",
+                    "value": 322
                   },
                   "duration": {
                     "text": "1 min",
-                    "value": 31
+                    "value": 53
                   },
                   "end_location": {
-                    "lat": -33.8640859,
-                    "lng": 151.2710761
+                    "lat": -33.7334086,
+                    "lng": 151.1312594
                   },
-                  "html_instructions": "Turn <b>left</b> onto <b>Bayview Hill Rd</b>",
-                  "maneuver": "turn-left",
+                  "html_instructions": "Turn <b>right</b> onto <b>Pacific Hwy</b>/<wbr/><b>A1</b>",
+                  "maneuver": "turn-right",
                   "polyline": {
-                    "points": "zbumEmkhz[Gh@MjACVGz@Gz@"
+                    "points": "pq{lE{dly[QCGyAIsAEw@CUE]AICSGi@E]Ee@Ca@?U?M@O?KBMBQLc@DOLWDKFK"
                   },
                   "start_location": {
-                    "lat": -33.8643021,
-                    "lng": 151.272395
+                    "lat": -33.7335254,
+                    "lng": 151.1279826
                   },
                   "travel_mode": "DRIVING"
                 }
@@ -976,9 +1642,9 @@
             }
           ],
           "overview_polyline": {
-            "points": "hkvmEqr{y[RrFJ|AEpC?jC~AOdF[tBKx@AhCWzGa@xBOQpAQlBETGEUGg@Ka@Ce@Bo@PYN]T[ZSZYt@KXKJKDSCQQCM?WJyAFgAPuBFiA\\gH\\kJ@sACsBSaDWoBQeAe@{DI_BGuBA{CBaADgAFyAPyBBYJeAp@oHXaDDe@VwEFeAJsAf@yD\\gB`AsADIfAmDLu@ZsDXiDJ{ADiABwADwE?wAEyAGoB@k@^iERuAd@oF^oDf@iDNi@`@s@r@aAnAyAvAwA\\m@Lc@Da@nAmLFw@FYJOTaACUSw@a@uAWe@Wm@WyA]{D@w@HuAC[IYWk@SUgAaA[c@s@sBOc@_@wCCSMUI_@MSwAwA}@eAqAaBYUUGq@W_@YSS}@eAc@Ue@IWIYA{@?u@@g@AUCUMe@o@Sg@{@wEe@qC[yAW{@MYY[[U}AmA}@w@gAo@_Ai@][Ug@Ic@Am@Fe@FYdAqBbAuCxDuLx@}Dr@_GXaCFaADaDFiFDu@F[Lg@Nc@RaBCq@Ms@[{@gAoBq@wBmAkEcA_Fi@wAeEsIyAaCkC}Cg@ScBE_@Ec@MYQ]_@Qe@OcAGWIQQQWMW?o@Nk@Ni@O{@w@kAw@WWKc@Ic@COQSYQSCS@[LUZe@dASTWPE@EBGh@QbBOvB"
+            "points": "tzvmEee|y[Lu@XeDb@gFTmBPiB`AgLl@uFHw@F{@m@CaCYaH_AsHeAc@CSJKLUO{@[w@KqADYDi@PeAVgAb@w@h@_@\\{@rA[t@Y`AqAxFa@tA]z@m@lAiAjAaA`Am@\\]JgAR_A@i@Es@OyAg@{Am@eAYmAMaAAaE@oK@eKZiLVkKVuPXsDJ_ALs@LyCx@qDbAeOfEaHpB}DfAqAVaAPoCT_A@gCIwBOoAQmCWcKcAeC_@uBc@}A]sCaAoB{@oCwAwBoAyDuAaCi@qCWwCAY@kBRs@J}A`@i@PsAl@cBbA_BxA_AfA_AtAw@tB]vAi@lCm@|Dg@bCi@nBg@hA}@jBgAbBi@t@eBdBoBfByAlAq@h@MB_Ar@iHxFqDzBgE`CsHfEwC`BqBrAkBpBq@`Ak@dAWl@u@|Bg@rCQ~BCp@@~AFxAZzCt@zDvAhG`@vBV~AZtC\\vFHpD@lCGrDStDg@zEmCnPq@dFQnBUjEEpDFnDPbDJ~ARjEDrB@nCCjAObEWfDg@tDcB~I{@vEeAfH{@dHgBdPw@xGa@~Bq@|CmAhEkAdDqBnEmBhDgCbEaBrCcBpDaAfC{A~EuApEuAlDs@|A}B~D}AzB}@dAmB|BeBzByBfDyArCeBpEkBbGQf@BF@HCJa@nAiAjCmAtB[n@]b@iAvAiAjAy@v@sA~@gAv@w@x@sCxDy@`AiCtDaClDgClDoCpDsC~D}A`C_FzGKZOVeCrD_DlEwBvCUZiAcAyCmD{@kAe@g@w@}@sAyAeE{DuFcGsLaMuGcHcAaAgAu@_Ag@g@SiA_@}@Qw@McBGiIL{JLkABqAIoAQmB_@qEaAyDw@WFQAUBc@VQBSDm@Ta@PsApAwE~FgHdJoF~GiCdD}ArBy@lA{BnCMRQXCHMDQRyAhBuKhNkAvA[J_@?{@]c@Oe@Ee@FWJ]\\[l@G^Cd@Bb@Jh@NX~BvCbAvAPn@Df@Ah@In@Yt@m@j@o@RcDL}@AeBUeBOw@Bc@Jk@V_@Tq@p@yCnD{@dAmApAmBtBo@f@y@`@mA`@_AN_AH}ADm@Hi@Rg@`@aAtAoBnC[`@kA`AmD~B]NmAR_AJ]Nc@ZyBpC}ApBaAlAcCkAsAo@SOmEkFoCiDcBcBQWc@_AqAqCsAwBoBkFw@uBOm@EgAEoEa@mCQo@]}@{EiLuDwH]o@YYyCsBm@Ye@@{@^OBSCcDgCoDcBg@K[{FSeBKcACw@Dw@Pu@Rg@LW"
           },
-          "summary": "Cross City Tunnel and New South Head Rd",
+          "summary": "M1",
           "warnings": [],
           "waypoint_order": []
         }
@@ -986,606 +1652,29 @@
       "status": "OK"
     },
     "Public Transport": {
+      "available_travel_modes": [
+        "DRIVING",
+        "WALKING",
+        "BICYCLING"
+      ],
       "geocoded_waypoints": [
         {
           "geocoder_status": "OK",
-          "place_id": "ChIJt1JtIT-uEmsRC0b2e2VCR6o",
+          "place_id": "ChIJU2s2Gz6uEmsRIuwzjuh3Qa0",
           "types": [
             "route"
           ]
         },
         {
           "geocoder_status": "OK",
-          "place_id": "ChIJyyG90lKsEmsRMqOo92JTvAI",
+          "place_id": "EiJQYWNpZmljIEh3eSwgU3lkbmV5IE5TVywgQXVzdHJhbGlhIi4qLAoUChIJie3QqpeQnmsRu6eqHWtP-YoSFAoSCT90mvM4mBJrEVCoMhZofQED",
           "types": [
             "route"
           ]
         }
       ],
-      "routes": [
-        {
-          "bounds": {
-            "northeast": {
-              "lat": -33.855217,
-              "lng": 151.2719012
-            },
-            "southwest": {
-              "lat": -33.8721083,
-              "lng": 151.2069089
-            }
-          },
-          "copyrights": "Map data \u00a92020 Google",
-          "legs": [
-            {
-              "arrival_time": {
-                "text": "3:21pm",
-                "time_zone": "Australia/Sydney",
-                "value": 1583727695
-              },
-              "departure_time": {
-                "text": "2:28pm",
-                "time_zone": "Australia/Sydney",
-                "value": 1583724484
-              },
-              "distance": {
-                "text": "9.4 km",
-                "value": 9351
-              },
-              "duration": {
-                "text": "54 mins",
-                "value": 3211
-              },
-              "end_address": "Bayview Hill Rd, Sydney NSW, Australia",
-              "end_location": {
-                "lat": -33.8640504,
-                "lng": 151.2710834
-              },
-              "start_address": "George St, Sydney NSW, Australia",
-              "start_location": {
-                "lat": -33.8702105,
-                "lng": 151.2069704
-              },
-              "steps": [
-                {
-                  "distance": {
-                    "text": "0.2 km",
-                    "value": 152
-                  },
-                  "duration": {
-                    "text": "2 mins",
-                    "value": 115
-                  },
-                  "end_location": {
-                    "lat": -33.8715766,
-                    "lng": 151.2070064
-                  },
-                  "html_instructions": "Walk to QVB",
-                  "polyline": {
-                    "points": "xgvmEqr{y[j@?v@?B?LA\\?b@AxAC"
-                  },
-                  "start_location": {
-                    "lat": -33.8702105,
-                    "lng": 151.2069704
-                  },
-                  "steps": [
-                    {
-                      "distance": {
-                        "text": "0.2 km",
-                        "value": 152
-                      },
-                      "duration": {
-                        "text": "2 mins",
-                        "value": 115
-                      },
-                      "end_location": {
-                        "lat": -33.8715766,
-                        "lng": 151.2070064
-                      },
-                      "html_instructions": "Head <b>south</b> on <b>George St</b> toward <b>Market St</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
-                      "polyline": {
-                        "points": "xgvmEqr{y[j@?v@?B?LA\\?b@AxAC"
-                      },
-                      "start_location": {
-                        "lat": -33.8702105,
-                        "lng": 151.2069704
-                      },
-                      "travel_mode": "WALKING"
-                    }
-                  ],
-                  "travel_mode": "WALKING"
-                },
-                {
-                  "distance": {
-                    "text": "1.3 km",
-                    "value": 1323
-                  },
-                  "duration": {
-                    "text": "8 mins",
-                    "value": 480
-                  },
-                  "end_location": {
-                    "lat": -33.861576,
-                    "lng": 151.210037
-                  },
-                  "html_instructions": "Light rail towards Circular Quay",
-                  "polyline": {
-                    "points": "jpvmEgr{y[?CQ?gAByF?_E@yIc@eBKyCO{@G}AGcBMcBIE?cHUe@KeAe@iCuAMKAOCMBe@Hi@Hk@@e@BUFg@H}ABC"
-                  },
-                  "start_location": {
-                    "lat": -33.871582,
-                    "lng": 151.206924
-                  },
-                  "transit_details": {
-                    "arrival_stop": {
-                      "location": {
-                        "lat": -33.861576,
-                        "lng": 151.210037
-                      },
-                      "name": "Circular Quay"
-                    },
-                    "arrival_time": {
-                      "text": "2:38pm",
-                      "time_zone": "Australia/Sydney",
-                      "value": 1583725080
-                    },
-                    "departure_stop": {
-                      "location": {
-                        "lat": -33.871582,
-                        "lng": 151.206924
-                      },
-                      "name": "QVB"
-                    },
-                    "departure_time": {
-                      "text": "2:30pm",
-                      "time_zone": "Australia/Sydney",
-                      "value": 1583724600
-                    },
-                    "headsign": "Circular Quay",
-                    "line": {
-                      "agencies": [
-                        {
-                          "name": "Sydney Light Rail",
-                          "phone": "011 61 131500",
-                          "url": "http://transportnsw.info/"
-                        }
-                      ],
-                      "color": "#be1622",
-                      "name": "Randwick Line",
-                      "short_name": "L2",
-                      "text_color": "#ffffff",
-                      "vehicle": {
-                        "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/tram2.png",
-                        "local_icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/au-sydney-lightrail.png",
-                        "name": "Light rail",
-                        "type": "TRAM"
-                      }
-                    },
-                    "num_stops": 3
-                  },
-                  "travel_mode": "TRANSIT"
-                },
-                {
-                  "distance": {
-                    "text": "0.3 km",
-                    "value": 318
-                  },
-                  "duration": {
-                    "text": "4 mins",
-                    "value": 220
-                  },
-                  "end_location": {
-                    "lat": -33.8611494,
-                    "lng": 151.2120183
-                  },
-                  "html_instructions": "Walk to Wharf 2",
-                  "polyline": {
-                    "points": "`qtmE{e|y[Bs@BUYCE?A?G?]CDoA@IDuA@QNcC?OAOEKEIEIEI@H@F@FBLHT@B?B?BABA@A@CBA@A@C?C?A?"
-                  },
-                  "start_location": {
-                    "lat": -33.8614503,
-                    "lng": 151.2100581
-                  },
-                  "steps": [
-                    {
-                      "distance": {
-                        "text": "35 m",
-                        "value": 35
-                      },
-                      "duration": {
-                        "text": "1 min",
-                        "value": 26
-                      },
-                      "end_location": {
-                        "lat": -33.8614851,
-                        "lng": 151.2104348
-                      },
-                      "html_instructions": "Head <b>east</b> on <b>Alfred St</b>",
-                      "polyline": {
-                        "points": "`qtmE{e|y[Bs@BU"
-                      },
-                      "start_location": {
-                        "lat": -33.8614503,
-                        "lng": 151.2100581
-                      },
-                      "travel_mode": "WALKING"
-                    },
-                    {
-                      "distance": {
-                        "text": "40 m",
-                        "value": 40
-                      },
-                      "duration": {
-                        "text": "1 min",
-                        "value": 30
-                      },
-                      "end_location": {
-                        "lat": -33.8611257,
-                        "lng": 151.2104729
-                      },
-                      "html_instructions": "Turn <b>left</b>",
-                      "maneuver": "turn-left",
-                      "polyline": {
-                        "points": "hqtmEeh|y[YCE?A?G?]C"
-                      },
-                      "start_location": {
-                        "lat": -33.8614851,
-                        "lng": 151.2104348
-                      },
-                      "travel_mode": "WALKING"
-                    },
-                    {
-                      "distance": {
-                        "text": "0.2 km",
-                        "value": 190
-                      },
-                      "duration": {
-                        "text": "2 mins",
-                        "value": 129
-                      },
-                      "end_location": {
-                        "lat": -33.8611612,
-                        "lng": 151.2124704
-                      },
-                      "html_instructions": "Turn <b>right</b>",
-                      "maneuver": "turn-right",
-                      "polyline": {
-                        "points": "`otmEmh|y[DoA@IDuA@QNcC?OAOEKEIEIEI"
-                      },
-                      "start_location": {
-                        "lat": -33.8611257,
-                        "lng": 151.2104729
-                      },
-                      "travel_mode": "WALKING"
-                    },
-                    {
-                      "distance": {
-                        "text": "53 m",
-                        "value": 53
-                      },
-                      "duration": {
-                        "text": "1 min",
-                        "value": 35
-                      },
-                      "end_location": {
-                        "lat": -33.8611494,
-                        "lng": 151.2120183
-                      },
-                      "html_instructions": "Sharp <b>left</b>",
-                      "maneuver": "turn-sharp-left",
-                      "polyline": {
-                        "points": "fotmE}t|y[@H@F@FBLHT@B?B?BABA@A@CBA@A@C?C?A?"
-                      },
-                      "start_location": {
-                        "lat": -33.8611612,
-                        "lng": 151.2124704
-                      },
-                      "travel_mode": "WALKING"
-                    }
-                  ],
-                  "travel_mode": "WALKING"
-                },
-                {
-                  "distance": {
-                    "text": "5.8 km",
-                    "value": 5822
-                  },
-                  "duration": {
-                    "text": "12 mins",
-                    "value": 720
-                  },
-                  "end_location": {
-                    "lat": -33.870647,
-                    "lng": 151.262161
-                  },
-                  "html_instructions": "Ferry towards Watsons Bay",
-                  "polyline": {
-                    "points": "xltmEwq|y[i@UcD`BiBx@eMaLmHgFYc@Om@hAqf@`Ae]d@sOXuGr@yEnDoR`XsdAb@kDTgCTkHTaZLmDb@sIXuDd@yCn@mBx@}AbBgBrCmBbDgBbDsAlG_ClJuClHsBNE"
-                  },
-                  "start_location": {
-                    "lat": -33.860775,
-                    "lng": 151.21196
-                  },
-                  "transit_details": {
-                    "arrival_stop": {
-                      "location": {
-                        "lat": -33.870647,
-                        "lng": 151.262161
-                      },
-                      "name": "Rose Bay Wharf"
-                    },
-                    "arrival_time": {
-                      "text": "2:59pm",
-                      "time_zone": "Australia/Sydney",
-                      "value": 1583726340
-                    },
-                    "departure_stop": {
-                      "location": {
-                        "lat": -33.860775,
-                        "lng": 151.21196
-                      },
-                      "name": "Wharf 2"
-                    },
-                    "departure_time": {
-                      "text": "2:47pm",
-                      "time_zone": "Australia/Sydney",
-                      "value": 1583725620
-                    },
-                    "headsign": "Watsons Bay",
-                    "line": {
-                      "agencies": [
-                        {
-                          "name": "Sydney Ferries",
-                          "phone": "011 61 131500",
-                          "url": "http://transportnsw.info/"
-                        }
-                      ],
-                      "color": "#97c93d",
-                      "name": "Cross Harbour",
-                      "short_name": "F4",
-                      "text_color": "#ffffff",
-                      "vehicle": {
-                        "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/ferry.png",
-                        "local_icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/au-sydney-ferry.png",
-                        "name": "Ferry",
-                        "type": "FERRY"
-                      }
-                    },
-                    "num_stops": 1
-                  },
-                  "travel_mode": "TRANSIT"
-                },
-                {
-                  "distance": {
-                    "text": "1.7 km",
-                    "value": 1736
-                  },
-                  "duration": {
-                    "text": "23 mins",
-                    "value": 1354
-                  },
-                  "end_location": {
-                    "lat": -33.8640504,
-                    "lng": 151.2710834
-                  },
-                  "html_instructions": "Walk to Bayview Hill Rd, Sydney NSW, Australia",
-                  "polyline": {
-                    "points": "xkvmEemfz[CCAAACACCCAEAG@I@CBEDEBCBCBABABAB?D@B?\\NBOBK?E?CAI?GESEQCOCSAEACAE?C?E?E?C?IBGBGBEDEDCBCBA@ABA@A@ABC@A@C@EFUDU@K@G?C?G?C?EAEAIRILG@JDH@F@B@B@?@@@?@?B?DCFCf@QNINGW}@W}@Og@[mAIWEQEQCOKi@EQEUUgAESCIGOO_@MYq@sAO]iAaCy@_Bk@aAWc@IOIIgAqAIKo@u@EECCECGEICKCMAO?y@CK?G?EAMACAMCGCGAGCECGEECECEEEEGGOSEMEICKCKEWAIEW?EAEAEAAACACACCCAEEECAAAECECECCAC?A?E?G@E?KBYHUFKBC@KB]IGCGESMQFE?A@G?UEWCIAC?E?E@C?A@EBCBCBC@EHEHMTc@dAGNCFCDCBEFi@f@GFIFGFIDMFG@KDG@I@M@oAJMC?ENeB"
-                  },
-                  "start_location": {
-                    "lat": -33.8708537,
-                    "lng": 151.2624298
-                  },
-                  "steps": [
-                    {
-                      "distance": {
-                        "text": "15 m",
-                        "value": 15
-                      },
-                      "duration": {
-                        "text": "1 min",
-                        "value": 11
-                      },
-                      "end_location": {
-                        "lat": -33.87076160000001,
-                        "lng": 151.2625858
-                      },
-                      "html_instructions": "Head <b>northeast</b>",
-                      "polyline": {
-                        "points": "xkvmEemfz[CCAAACACCCAEAG"
-                      },
-                      "start_location": {
-                        "lat": -33.8708537,
-                        "lng": 151.2624298
-                      },
-                      "travel_mode": "WALKING"
-                    },
-                    {
-                      "distance": {
-                        "text": "45 m",
-                        "value": 45
-                      },
-                      "duration": {
-                        "text": "1 min",
-                        "value": 34
-                      },
-                      "end_location": {
-                        "lat": -33.8711467,
-                        "lng": 151.2627006
-                      },
-                      "html_instructions": "Turn <b>right</b>",
-                      "maneuver": "turn-right",
-                      "polyline": {
-                        "points": "fkvmEenfz[@I@CBEDEBCBCBABABAB?D@B?\\N"
-                      },
-                      "start_location": {
-                        "lat": -33.87076160000001,
-                        "lng": 151.2625858
-                      },
-                      "travel_mode": "WALKING"
-                    },
-                    {
-                      "distance": {
-                        "text": "0.2 km",
-                        "value": 179
-                      },
-                      "duration": {
-                        "text": "2 mins",
-                        "value": 130
-                      },
-                      "end_location": {
-                        "lat": -33.8713755,
-                        "lng": 151.2643996
-                      },
-                      "html_instructions": "Turn <b>left</b>",
-                      "maneuver": "turn-left",
-                      "polyline": {
-                        "points": "tmvmE{nfz[BOBK?E?CAI?GESEQCOCSAEACAE?C?E?E?C?IBGBGBEDEDCBCBA@ABA@A@ABC@A@C@EFUDU@K@G?C?G?C?EAEAI"
-                      },
-                      "start_location": {
-                        "lat": -33.8711467,
-                        "lng": 151.2627006
-                      },
-                      "travel_mode": "WALKING"
-                    },
-                    {
-                      "distance": {
-                        "text": "17 m",
-                        "value": 17
-                      },
-                      "duration": {
-                        "text": "1 min",
-                        "value": 12
-                      },
-                      "end_location": {
-                        "lat": -33.8715483,
-                        "lng": 151.2644855
-                      },
-                      "html_instructions": "Turn <b>right</b> toward <b>New South Head Rd</b>",
-                      "maneuver": "turn-right",
-                      "polyline": {
-                        "points": "bovmEoyfz[RILG"
-                      },
-                      "start_location": {
-                        "lat": -33.8713755,
-                        "lng": 151.2643996
-                      },
-                      "travel_mode": "WALKING"
-                    },
-                    {
-                      "distance": {
-                        "text": "89 m",
-                        "value": 89
-                      },
-                      "duration": {
-                        "text": "1 min",
-                        "value": 69
-                      },
-                      "end_location": {
-                        "lat": -33.8721083,
-                        "lng": 151.26451
-                      },
-                      "html_instructions": "Turn <b>right</b> at <b>Vickery Ave</b>",
-                      "maneuver": "turn-right",
-                      "polyline": {
-                        "points": "dpvmEazfz[@JDH@F@B@B@?@@@?@?B?DCFCf@QNING"
-                      },
-                      "start_location": {
-                        "lat": -33.8715483,
-                        "lng": 151.2644855
-                      },
-                      "travel_mode": "WALKING"
-                    },
-                    {
-                      "distance": {
-                        "text": "1.0 km",
-                        "value": 1039
-                      },
-                      "duration": {
-                        "text": "14 mins",
-                        "value": 832
-                      },
-                      "end_location": {
-                        "lat": -33.8662481,
-                        "lng": 151.2718923
-                      },
-                      "html_instructions": "Turn <b>left</b> onto <b>New South Head Rd</b>",
-                      "maneuver": "turn-left",
-                      "polyline": {
-                        "points": "tsvmEezfz[W}@W}@Og@[mAIWEQEQCOKi@EQEUUgAESCIGOO_@MYq@sAO]iAaCy@_Bk@aAWc@IOIIgAqAIKo@u@EECCECGEICKCMAO?y@CK?G?EAMACAMCGCGAGCECGEECECEEEEGGOSEMEICKCKEWAIEW?EAEAEAAACACACCCAEEECAAAECECECCAC?A?E?G@E?KBYHUFKBC@KB]IGCGESM"
-                      },
-                      "start_location": {
-                        "lat": -33.8721083,
-                        "lng": 151.26451
-                      },
-                      "travel_mode": "WALKING"
-                    },
-                    {
-                      "distance": {
-                        "text": "0.3 km",
-                        "value": 304
-                      },
-                      "duration": {
-                        "text": "3 mins",
-                        "value": 209
-                      },
-                      "end_location": {
-                        "lat": -33.8639737,
-                        "lng": 151.2705705
-                      },
-                      "html_instructions": "Turn <b>left</b> onto <b>Tivoli Ave</b>",
-                      "maneuver": "turn-left",
-                      "polyline": {
-                        "points": "`oumEihhz[QFE?A@G?UEWCIAC?E?E@C?A@EBCBCBC@EHEHMTc@dAGNCFCDCBEFi@f@GFIFGFIDMFG@KDG@I@M@oAJMC?E"
-                      },
-                      "start_location": {
-                        "lat": -33.8662481,
-                        "lng": 151.2718923
-                      },
-                      "travel_mode": "WALKING"
-                    },
-                    {
-                      "distance": {
-                        "text": "48 m",
-                        "value": 48
-                      },
-                      "duration": {
-                        "text": "1 min",
-                        "value": 57
-                      },
-                      "end_location": {
-                        "lat": -33.8640504,
-                        "lng": 151.2710834
-                      },
-                      "html_instructions": "Turn <b>right</b> onto <b>Bayview Hill Rd</b>",
-                      "maneuver": "turn-right",
-                      "polyline": {
-                        "points": "x`umEa`hz[NeB"
-                      },
-                      "start_location": {
-                        "lat": -33.8639737,
-                        "lng": 151.2705705
-                      },
-                      "travel_mode": "WALKING"
-                    }
-                  ],
-                  "travel_mode": "WALKING"
-                }
-              ],
-              "traffic_speed_entry": [],
-              "via_waypoint": []
-            }
-          ],
-          "overview_polyline": {
-            "points": "xgvmEqr{y[tBA`AAxAC?P?CQ?aIB_E@yIc@_G[{@G}AGcBMcBIiHUe@KeAe@iCuAMKE]Be@Hi@Hk@@e@J}@LaBYCBs@BUYCG?e@CNaENsCG[KSEI@HBNLb@?NIHK@kAJi@UmGzCeMaLmHgFYc@Om@hAqf@`Ae]d@sOXuGr@yEnDoR`XsdAb@kDTgCTkHTaZLmDb@sIXuDd@yCn@mBx@}AbBgBrCmBbDgBbDsAlG_ClJuClHsBNEf@u@EEIQ?QDIPOPA`@NF[A[SiAES?YFOHKNKJILa@Hm@AWAIRILG@JFPBFB@LCnAg@{AqFgAeFa@mAyCmGeBaDa@s@kC}CWSUG]AsAEg@K]OWSW[KWOy@Ii@GMOQSMOAs@Nq@Pe@M[SWFI@{@KQBQLYh@s@bB{@z@i@\\e@J}ALMC?ENeB"
-          },
-          "summary": "",
-          "warnings": [
-            "Walking directions are in beta. Use caution \u2013 This route may be missing sidewalks or pedestrian paths."
-          ],
-          "waypoint_order": []
-        }
-      ],
-      "status": "OK"
+      "routes": [],
+      "status": "ZERO_RESULTS"
     }
   }
 ]
