@@ -9,6 +9,7 @@ import time
 
 path = "in"
 df = pd.read_excel(os.path.join(path, "200taxis.xlsx"))
+data = []
 
 baddies = [
     "AIRPORT",
@@ -40,11 +41,11 @@ df = df.sample(10)
 
 for i, row in df.iterrows(): 
     #Getting street name only
-    PickUp = row["Pick Up"].split(",")[0] 
-    DropOff = row["Drop Off"].split(",")[0]
+    PickUp = row["Pick Up"]
+    DropOff = row["Drop Off"]
 
     #Changing given 24 hour time into Epoch Time to match directions api standards
-    Time = row['Time'].replace(" ", "")
+    Time = row['time'].replace(" ", "")
     Time_String = "9 Mar 2020 " + Time
     Striptime = time.strptime(Time_String, "%d %b %Y %H:%M:%S") 
     Time = str(time.mktime(Striptime))[:-2]
@@ -53,9 +54,8 @@ for i, row in df.iterrows():
     key = "AIzaSyCCNNwCQCx4yG60KJIFR8xzggoBCCNCnqw"
     base = "https://maps.googleapis.com/maps/api/directions"
     response = "json"
-    data = []
 
-    #Getting rid of commas, replace " " with "+", change formatting for outlier location names
+    #Reformatting for url, then getting rid of commas, replace " " with "+", change formatting for outlier location names
     dir_url_walking = f"{base}/{response}?origin="+PickUp+"&destination="+DropOff+"&key="+key+"&mode="+"walking"+"&arrival_time="+Time 
     dir_url_walking = dir_url_walking.replace('TOWN HALL', 'Town Hall Sydney NSW').replace('SYD INT ARPT', 'Sydney International Airport').replace('SYD DOM ARPT', "Sydney Domestic Airport").replace(" ", "+").replace(",", "")
 
@@ -70,6 +70,8 @@ for i, row in df.iterrows():
     r_driving = requests.get(dir_url_driving)
     r_transit = requests.get(dir_url_transit)
 
+    print(dir_url_walking)
+
     json_data_walking=r_walking.json()
     json_data_driving=r_driving.json()
     json_data_transit=r_transit.json()
@@ -83,12 +85,13 @@ for i, row in df.iterrows():
         "Transit":json_data_transit
     }
     
-    #\json/location data into dict
+    # json/location data into dict
     if not json_data_walking.get("error message") or json_data_driving.get("error message") or json_data_transit.get("error message"):
         # print(dictionary)
-        data.append(dictionary)
+        data.append(dictionary)# TODO: unhashable type: list
     else:
         print("ERROR")
 
-with open("samplejson(10).json", "w") as ts: #Copies dictionary info into json
-    ts.write(json.dumps(dictionary, indent=2))
+#Create json file
+with open("samplejson(10).json", "w") as ts: 
+    ts.write(json.dumps(data, indent=2))
