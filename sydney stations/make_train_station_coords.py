@@ -226,26 +226,27 @@ problem_station_names = [
 ]
 
 key = "AIzaSyCCNNwCQCx4yG60KJIFR8xzggoBCCNCnqw"
-base = "https://maps.googleapis.com/maps/api/geocode"
-response = "json"
-data = []
-for name in problem_station_names:
-    address = f"{name} Train Station, NSW".replace(" ", "+")
-    geo_url = f"{base}/{response}?address={address}&key={key}"
-    # print(geo_url)
-    r = requests.get(geo_url)
-    json_data = r.json()
-    if not json_data.get("error_message"):
-        data.append(json_data)
-    else:
-        json_data["url"] = geo_url
-        json_data["name"] = name
-        data.append({json_data})
+# base = "https://maps.googleapis.com/maps/api/geocode"
+# response = "json"
+# data = []
+# for name in problem_station_names:
+#     address = f"{name} Train Station, NSW".replace(" ", "+")
+#     geo_url = f"{base}/{response}?address={address}&key={key}"
+#     # print(geo_url)
+#     r = requests.get(geo_url)
+#     json_data = r.json()
+#     if not json_data.get("error_message"):
+#         data.append(json_data)
+#     else:
+#         json_data["url"] = geo_url
+#         json_data["name"] = name
+#         data.append({json_data})
 
 
-with open("problem_train_station_data.json", "w") as ts:
-    ts.write(json.dumps(data, indent=2))
+# with open("problem_train_station_data.json", "w") as ts:
+#     ts.write(json.dumps(data, indent=2))
 
-# geo_url = "https://maps.googleapis.com/maps/api/directions/"+"json"+"?origin="+"&destination="+"Crown+St+Sydney+NSW"+"&key="+key+"&arrival_time="+"1583718240"
-# r = requests.get(geo_url)
-# print(r) #Response[200] --> YAY
+geo_url = "https://maps.googleapis.com/maps/api/directions/"+"json"+"?origin="+"Pacific+Hwy+North+Sydney+NSW+2060"+"&destination="+"Crown+St+Sydney+NSW"+"&key="+key+"&arrival_time="+"1583718240"
+r = requests.get(geo_url)
+json_data=r.json()
+print(json_data) #Response[200] --> YAY
