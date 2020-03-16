@@ -44,21 +44,24 @@ with open('samplejson(10).json') as f:
     data = f.read()
     data2 = json.loads(data)
 
-    row_count = len(data2)
-    step_count = (len(data2[5]['Transit']['routes'][0]['legs'][0]['steps'][0]['steps']))
-    print(data2[5]['Transit']['routes'][0]['legs'][0]['steps'][1]['transit_details']['line']['vehicle']['type'])
+    row_count = int(len(data2))
+
+    # step1_count = print("step1_count: " + str(len(data2[5]['Transit']['routes'][0]['legs'][0]['steps'][0]['steps'])))
+    # step2_count = print("step2_count: " + str(len(data2[5]['Transit']['routes'][0]['legs'][0]['steps'])))
+    # print(data2[7]['Transit']['routes'][0]['legs'][0]['steps'][2]['transit_details']['line']['vehicle']['type'])
     # print(data2[5]['Transit']['routes'][0]['legs'][0]['steps'])
 
     # for i in range(0, int(step_count)):
     #     print(data2[5]['Transit']['routes'][0]['legs'][0]['steps'][0]['steps'][i]['travel_mode'])
+    # print(len(data2[2]['Transit']['routes'][0]['legs'][0]['steps']))
+    # print(data2[2]['Transit']['routes'][0]['legs'][0]['steps'][0]['steps'][0]['travel_mode'])
 
 
 
-"""
 #Walking Information
     main_list_start = []
     main_list_end = []
-    for i in range(0, int(row_count)):
+    for i in range(0, row_count):
         sublist_start = []
         sublist_end = []
         d = data2[i]
@@ -76,14 +79,14 @@ with open('samplejson(10).json') as f:
     df['Walking End Lat and Long'] = main_list_end
 
     main_list = []
-    for i in range(0, int(row_count)):
+    for i in range(0, row_count):
         d = data2[i]
         time = d['Walking']['routes'][0]['legs'][0]['duration']['text']
         main_list.append(time)
     df['Walking Time'] = main_list
 
     main_list = []
-    for i in range(0, int(row_count)):
+    for i in range(0, row_count):
         d = data2[i]
         dis = d['Walking']['routes'][0]['legs'][0]['distance']['text']
         main_list.append(dis)
@@ -94,7 +97,7 @@ with open('samplejson(10).json') as f:
 #Driving Information
     main_list_start = []
     main_list_end = []
-    for i in range(0, int(row_count)):
+    for i in range(0, row_count):
         sublist_start = []
         sublist_end = []
         d = data2[i]
@@ -112,14 +115,14 @@ with open('samplejson(10).json') as f:
     df['Driving End Lat and Long'] = main_list_end
 
     main_list = []
-    for i in range(0, int(row_count)):
+    for i in range(0, row_count):
         d = data2[i]
         time = d['Driving']['routes'][0]['legs'][0]['duration']['text']
         main_list.append(time)
     df['Driving Time'] = main_list
 
     main_list = []
-    for i in range(0, int(row_count)):
+    for i in range(0, row_count):
         d = data2[i]
         dis = d['Driving']['routes'][0]['legs'][0]['distance']['text']
         main_list.append(dis)
@@ -129,7 +132,7 @@ with open('samplejson(10).json') as f:
 
     main_list_start = []
     main_list_end = []
-    for i in range(0, int(row_count)):
+    for i in range(0, row_count):
         sublist_start = []
         sublist_end = []
         d = data2[i]
@@ -151,7 +154,7 @@ with open('samplejson(10).json') as f:
     df['Transit End Lat and Long'] = main_list_end
 
     main_list = []
-    for i in range(0, int(row_count)):
+    for i in range(0, row_count):
         d = data2[i]
         try:
             time = d['Transit']['routes'][0]['legs'][0]['duration']['text']
@@ -161,14 +164,34 @@ with open('samplejson(10).json') as f:
     df['Transit Time'] = main_list
 
     main_list = []
-    for i in range(0, int(row_count)):
+    for i in range(0, row_count):
         d = data2[i]
         try:
             time = d['Transit']['routes'][0]['legs'][0]['distance']['text']
             main_list.append(time)
         except: 
             main_list.append("Transit Unavailable")
-    df['Transit Distance'] = main_list"""
+            print(d['Pick Up'])
+            print(d['Drop Off'])
+    df['Transit Distance'] = main_list  
+    
+    main_list = []
+    for i in range(0, row_count):
+        try:
+            sublist1 = []
+            step1_count = int(len(data2[i]['Transit']['routes'][0]['legs'][0]['steps']))
+            for j in range(0, step1_count):
+                sublist2 = []
+                try:
+                    mode = (data2[i]['Transit']['routes'][0]['legs'][0]['steps'][j]['steps'][0]['travel_mode'])
+                    sublist1.append(mode)
+                except:   
+                    mode = (data2[i]['Transit']['routes'][0]['legs'][0]['steps'][j]['transit_details']['line']['vehicle']['type'])
+                    sublist1.append(mode)
+        except:
+            sublist1.append("Transit Unavailable")
+        main_list.append(sublist1)
+    df['Transit Mode'] = main_list
 
 
 
