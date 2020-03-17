@@ -52,22 +52,22 @@ with open('samplejson(10).json') as f:
     main_list_start = []
     main_list_end = []
     for i in range(0, row_count):
-        # Create sublists for start and end coordinates
+        # Create sublists for start and end coordinates (each row gets a new sublist)
         sublist_start = []
         sublist_end = []
-        # 
+        # Re-designating "data2[i]" to step through the loop
         d = data2[i]
-        #
+        # Pathways to dict information
         start_lat = d['Walking']['routes'][0]['legs'][0]['start_location']['lat']
         start_lng = d['Walking']['routes'][0]['legs'][0]['start_location']['lng']
         end_lat = d['Walking']['routes'][0]['legs'][0]['end_location']['lat']
         end_lng = d['Walking']['routes'][0]['legs'][0]['end_location']['lng']
-        #
+        # Append information to smaller sublists
         sublist_start.append(start_lat)
         sublist_start.append(start_lng)
         sublist_end.append(end_lat)
         sublist_end.append(end_lng)
-        #
+        # Append the information for that row to the main_list and reset for the next iterration
         main_list_start.append(sublist_start)
         main_list_end.append(sublist_end)
     # Add new columns to original df
@@ -126,7 +126,8 @@ with open('samplejson(10).json') as f:
     df['Driving Distance'] = main_list
 
 
-#Transit Information
+# Transit Information
+# Not all routes have a transit option, hence the try/except
     main_list_start = []
     main_list_end = []
     for i in range(0, row_count):
@@ -190,7 +191,5 @@ with open('samplejson(10).json') as f:
         main_list.append(sublist1)
     df['Transit Mode'] = main_list
 
-
-
-
+    # df.to_excel(writer, sheet_name = "make_columns1") 
 
